@@ -6,7 +6,7 @@ import { dataDirectory, imagesDirectory } from "../config";
 import keyv from "keyv";
 import { promises as fs, existsSync } from "fs";
 import path from "path";
-import sharp, { AvailableFormatInfo, FormatEnum } from "sharp";
+import sharp, { FormatEnum } from "sharp";
 import { NotFoundError } from "elysia";
 
 const cache = new keyv();

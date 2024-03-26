@@ -1,6 +1,6 @@
 import { Elysia, NotFoundError, t } from "elysia";
 import { swagger } from "@elysiajs/swagger";
-import { genshin } from "./services/genshin";
+import { genshin } from "./controllers/genshin";
 
 const app = new Elysia()
   .use(swagger())

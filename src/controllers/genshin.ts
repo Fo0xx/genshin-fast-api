@@ -1,4 +1,5 @@
 import { Elysia, NotFoundError, t } from "elysia";
+import { helmet } from "elysia-helmet";
 import {
   getAvailableEntities,
   getAvailableImages,
@@ -8,6 +9,18 @@ import {
 } from "../modules/filesystem";
 
 export const genshin = new Elysia({ prefix: "/genshin" })
+  .use(
+    helmet({
+      contentSecurityPolicy: {
+        directives: {
+          defaultSrc: ["'self'"],
+          scriptSrc: ["'self'", "'unsafe-inline'", "cdn.jsdelivr.net"],
+          styleSrc: ["'self'", "'unsafe-inline'"],
+          imgSrc: ["'self'", "cdn.jsdelivr.net"],
+        },
+      },
+    })
+  )
   .get("/", () => {
     const types = getTypes();
     return types;
@@ -51,15 +64,15 @@ export const genshin = new Elysia({ prefix: "/genshin" })
 
             switch (typeof value) {
               case "string":
-                if (!value.includes(query[key] as string)) return false;
+                if (value.includes(query[key] as string)) return true;
                 break;
               default:
-                if (value !== query[key]) return false;
+                if (value == query[key]) return true;
                 break;
             }
           }
 
-          return true;
+          return false;
         });
       } catch (e) {
         throw new NotFoundError();

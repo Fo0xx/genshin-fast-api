@@ -1,11 +1,12 @@
 {
-  "name": "Silver Sword",
-  "type": "Sword",
-  "rarity": 2,
-  "baseAttack": 33,
-  "subStat": "-",
-  "passiveName": "-",
-  "passiveDesc": "-",
-  "location": "Chest",
-  "ascensionMaterial": "decarabian"
+    "name": "Silver Sword",
+    "type": "Sword",
+    "rarity": 2,
+    "baseAttack": 33,
+    "subStat": "-",
+    "passiveName": "-",
+    "passiveDesc": "-",
+    "location": "Chest",
+    "ascensionMaterial": "decarabian",
+    "id": "silver-sword"
 }

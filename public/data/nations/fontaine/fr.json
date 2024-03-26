@@ -2,6 +2,6 @@
     "name": "Fontaine",
     "element": "Hydro",
     "archon": "Foçalors",
-    "controllingEntity": "Palais Mermonia"
-  }
-  
+    "controllingEntity": "Palais Mermonia",
+    "id": "fontaine"
+}

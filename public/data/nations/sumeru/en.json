@@ -1,6 +1,7 @@
 {
-  "name": "Sumeru",
-  "element": "Dendro",
-  "archon": "Lesser Lord Kusanali",
-  "controllingEntity": "Sumeru Akademiya"
+    "name": "Sumeru",
+    "element": "Dendro",
+    "archon": "Lesser Lord Kusanali",
+    "controllingEntity": "Sumeru Akademiya",
+    "id": "sumeru"
 }

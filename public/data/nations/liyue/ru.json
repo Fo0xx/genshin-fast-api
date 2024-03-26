@@ -1,6 +1,7 @@
 {
-  "name": "Ли Юэ",
-  "element": "Гео",
-  "archon": "Моракс",
-  "controllingEntity": "Группировка Цисин"
+    "name": "Ли Юэ",
+    "element": "Гео",
+    "archon": "Моракс",
+    "controllingEntity": "Группировка Цисин",
+    "id": "liyue"
 }

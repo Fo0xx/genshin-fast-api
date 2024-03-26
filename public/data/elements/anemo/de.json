@@ -1,4 +1,5 @@
 {
-  "name": "Anemo",
-  "key": "ANEMO"
+    "name": "Anemo",
+    "key": "ANEMO",
+    "id": "anemo"
 }

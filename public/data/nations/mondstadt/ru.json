@@ -1,6 +1,7 @@
 {
-  "name": "Мондштадт",
-  "element": "Анемо",
-  "archon": "Барбатос",
-  "controllingEntity": "Ордо Фавониус"
+    "name": "Мондштадт",
+    "element": "Анемо",
+    "archon": "Барбатос",
+    "controllingEntity": "Ордо Фавониус",
+    "id": "mondstadt"
 }

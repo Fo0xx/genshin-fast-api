@@ -1,10 +1,11 @@
 {
-  "name": "無鋒の剣",
-  "type": "Sword",
-  "rarity": 1,
-  "baseAttack": 23,
-  "subStat": "-",
-  "passiveName": "-",
-  "passiveDesc": "-",
-  "location": "宝箱"
+    "name": "無鋒の剣",
+    "type": "Sword",
+    "rarity": 1,
+    "baseAttack": 23,
+    "subStat": "-",
+    "passiveName": "-",
+    "passiveDesc": "-",
+    "location": "宝箱",
+    "id": "dull-blade"
 }

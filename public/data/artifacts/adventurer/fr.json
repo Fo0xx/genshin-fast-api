@@ -1,6 +1,7 @@
 {
-  "name": "Aventurier",
-  "max_rarity": 3,
-  "2-piece_bonus": "Augmente les PV max de 1000 pts.",
-  "4-piece_bonus": "Restaure 30% des PV pendant 5s après l'ouverture d'un coffre."
+    "name": "Aventurier",
+    "max_rarity": 3,
+    "2-piece_bonus": "Augmente les PV max de 1000 pts.",
+    "4-piece_bonus": "Restaure 30% des PV pendant 5s après l'ouverture d'un coffre.",
+    "id": "adventurer"
 }

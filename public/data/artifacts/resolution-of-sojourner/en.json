@@ -1,6 +1,7 @@
 {
-  "name": "Resolution of Sojourner",
-  "max_rarity": 4,
-  "2-piece_bonus": "ATK +18%",
-  "4-piece_bonus": "Increases Charged Attack CRIT Rate by 30%."
+    "name": "Resolution of Sojourner",
+    "max_rarity": 4,
+    "2-piece_bonus": "ATK +18%",
+    "4-piece_bonus": "Increases Charged Attack CRIT Rate by 30%.",
+    "id": "resolution-of-sojourner"
 }

@@ -53,15 +53,28 @@ export async function getEntity(
 
   const exists = existsSync(filePath);
   if (!exists) {
-    let errorMessage = `Entity ${type}/${id} for language ${lang} not found`;
     const englishPath = path
       .join(dataDirectory(type), id.toLowerCase(), "en.json")
       .normalize();
 
     const englishExists = existsSync(englishPath);
-    if (englishExists) errorMessage += `, language en would exist`;
-
-    throw new Error(errorMessage);
+    if (englishExists) {
+      const englishFile = await fs.readFile(englishPath);
+      const englishEntity = JSON.parse(englishFile.toString("utf-8"));
+      await cache.set(cacheId, englishEntity);
+      console.log(
+        "[Cache-Data]",
+        `(${type})`,
+        "Added",
+        id,
+        "in",
+        "en",
+        "to the cache"
+      );
+      return englishEntity;
+    } else {
+      throw new Error(`Entity ${type}/${id} not found`);
+    }
   }
 
   const file = await fs.readFile(filePath);

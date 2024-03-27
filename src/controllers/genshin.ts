@@ -56,24 +56,23 @@ export const genshin = new Elysia({ prefix: "/genshin" })
           })
         );
 
-        return entityObjects.filter((entity) => {
+        const test: any[] = entityObjects.filter((entity) => {
           if (!entity) return false;
 
           for (const key of Object.keys(query)) {
             const value = entity[key];
 
-            switch (typeof value) {
-              case "string":
-                if (value.includes(query[key] as string)) return true;
-                break;
-              default:
-                if (value == query[key]) return true;
-                break;
+            if (typeof value === "string") {
+              if (value.includes(query[key] as string)) return true;
+            } else {
+              if (value == query[key]) return true;
             }
           }
 
           return false;
         });
+
+        return test;
       } catch (e) {
         throw new NotFoundError();
       }

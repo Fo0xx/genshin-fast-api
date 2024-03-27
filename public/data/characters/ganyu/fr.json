@@ -89,6 +89,5 @@
         }
     ],
     "vision_key": "CRYO",
-    "weapon_type": "BOW",
-    "id": "ganyu"
+    "weapon_type": "BOW"
 }

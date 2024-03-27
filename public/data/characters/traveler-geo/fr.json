@@ -81,6 +81,5 @@
         }
     ],
     "vision_key": "GEO",
-    "weapon_type": "SWORD",
-    "id": "traveler-geo"
+    "weapon_type": "SWORD"
 }

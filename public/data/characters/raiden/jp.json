@@ -87,6 +87,5 @@
         }
     ],
     "vision_key": "ELECTRO",
-    "weapon_type": "POLEARM",
-    "id": "raiden"
+    "weapon_type": "POLEARM"
 }

@@ -192,6 +192,5 @@
     ],
     "vision_key": "ELECTRO",
     "name_key": "cyno",
-    "weapon_type": "POLEARM",
-    "id": "cyno"
+    "weapon_type": "POLEARM"
 }

@@ -89,6 +89,5 @@
         }
     ],
     "vision_key": "DENDRO",
-    "weapon_type": "CLAYMORE",
-    "id": "kaveh"
+    "weapon_type": "CLAYMORE"
 }

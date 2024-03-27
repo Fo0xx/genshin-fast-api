@@ -89,6 +89,5 @@
         }
     ],
     "vision_key": "PYRO",
-    "weapon_type": "CATALYST",
-    "id": "yanfei"
+    "weapon_type": "CATALYST"
 }

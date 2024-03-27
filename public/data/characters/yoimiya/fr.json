@@ -89,6 +89,5 @@
         }
     ],
     "vision_key": "PYRO",
-    "weapon_type": "BOW",
-    "id": "yoimiya"
+    "weapon_type": "BOW"
 }

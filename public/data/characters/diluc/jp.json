@@ -173,6 +173,5 @@
         }
     ],
     "vision_key": "PYRO",
-    "weapon_type": "CLAYMORE",
-    "id": "diluc"
+    "weapon_type": "CLAYMORE"
 }

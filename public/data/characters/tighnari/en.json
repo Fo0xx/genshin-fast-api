@@ -167,6 +167,5 @@
         }
     ],
     "vision_key": "DENDRO",
-    "weapon_type": "BOW",
-    "id": "tighnari"
+    "weapon_type": "BOW"
 }

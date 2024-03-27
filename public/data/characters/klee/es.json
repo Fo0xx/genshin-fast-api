@@ -87,6 +87,5 @@
         }
     ],
     "vision_key": "PYRO",
-    "weapon_type": "CATALYST",
-    "id": "klee"
+    "weapon_type": "CATALYST"
 }

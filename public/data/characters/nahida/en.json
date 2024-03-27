@@ -167,6 +167,5 @@
         }
     ],
     "vision_key": "DENDRO",
-    "weapon_type": "CATALYST",
-    "id": "nahida"
+    "weapon_type": "CATALYST"
 }

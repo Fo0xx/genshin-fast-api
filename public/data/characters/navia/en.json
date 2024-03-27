@@ -89,6 +89,5 @@
         }
     ],
     "vision_key": "GEO",
-    "weapon_type": "CLAYMORE",
-    "id": "navia"
+    "weapon_type": "CLAYMORE"
 }

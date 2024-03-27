@@ -89,6 +89,5 @@
         }
     ],
     "vision_key": "PYRO",
-    "weapon_type": "POLEARM",
-    "id": "hu-tao"
+    "weapon_type": "POLEARM"
 }

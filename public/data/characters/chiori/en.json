@@ -160,6 +160,5 @@
         }
     ],
     "vision_key": "GEO",
-    "weapon_type": "SWORD",
-    "id": "chiori"
+    "weapon_type": "SWORD"
 }

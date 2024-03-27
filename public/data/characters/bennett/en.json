@@ -175,6 +175,5 @@
         }
     ],
     "vision_key": "PYRO",
-    "weapon_type": "SWORD",
-    "id": "bennett"
+    "weapon_type": "SWORD"
 }

@@ -81,6 +81,5 @@
         }
     ],
     "vision_key": "ELECTRO",
-    "weapon_type": "SWORD",
-    "id": "traveler-electro"
+    "weapon_type": "SWORD"
 }

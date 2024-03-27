@@ -165,6 +165,5 @@
         }
     ],
     "vision_key": "PYRO",
-    "weapon_type": "POLEARM",
-    "id": "xiangling"
+    "weapon_type": "POLEARM"
 }

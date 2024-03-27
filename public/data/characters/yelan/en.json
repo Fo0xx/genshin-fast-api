@@ -163,6 +163,5 @@
         }
     ],
     "vision_key": "HYDRO",
-    "weapon_type": "BOW",
-    "id": "yelan"
+    "weapon_type": "BOW"
 }

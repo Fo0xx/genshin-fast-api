@@ -89,6 +89,5 @@
         }
     ],
     "vision_key": "PYRO",
-    "weapon_type": "BOW",
-    "id": "lyney"
+    "weapon_type": "BOW"
 }

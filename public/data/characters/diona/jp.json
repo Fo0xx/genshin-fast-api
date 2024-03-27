@@ -173,6 +173,5 @@
         }
     ],
     "vision_key": "CRYO",
-    "weapon_type": "BOW",
-    "id": "diona"
+    "weapon_type": "BOW"
 }

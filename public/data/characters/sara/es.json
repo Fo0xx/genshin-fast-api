@@ -87,6 +87,5 @@
         }
     ],
     "vision_key": "ELECTRO",
-    "weapon_type": "BOW",
-    "id": "sara"
+    "weapon_type": "BOW"
 }

@@ -89,6 +89,5 @@
         }
     ],
     "vision_key": "CRYO",
-    "weapon_type": "POLEARM",
-    "id": "mika"
+    "weapon_type": "POLEARM"
 }

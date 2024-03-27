@@ -89,6 +89,5 @@
         }
     ],
     "vision_key": "PYRO",
-    "weapon_type": "POLEARM",
-    "id": "chevreuse"
+    "weapon_type": "POLEARM"
 }

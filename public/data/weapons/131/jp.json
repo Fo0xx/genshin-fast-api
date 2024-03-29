@@ -1,4 +1,5 @@
 {
+    "id": 131,
     "name": "歴戦の狩猟弓",
     "type": "Bow",
     "rarity": 2,
@@ -6,6 +7,5 @@
     "subStat": "-",
     "passiveName": "-",
     "passiveDesc": "-",
-    "location": "宝箱",
-    "id": "seasoned-hunter-s-bow"
+    "location": "宝箱"
 }

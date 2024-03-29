@@ -1,4 +1,5 @@
 {
+    "id": 83,
     "name": "Magic Guide",
     "type": "Catalyst",
     "rarity": 3,
@@ -7,6 +8,5 @@
     "passiveName": "Bane of Storm and Tide",
     "passiveDesc": "Increases DMG against enemies affected by Hydro or Electro by 12/15/18/21/24%.",
     "location": "Gacha",
-    "ascensionMaterial": "decarabian",
-    "id": "magic-guide"
+    "ascensionMaterial": "decarabian"
 }

@@ -1,4 +1,5 @@
 {
+    "id": 178,
     "name": "訓練用大剣",
     "type": "Claymore",
     "rarity": 1,
@@ -6,6 +7,5 @@
     "subStat": "-",
     "passiveName": "-",
     "passiveDesc": "-",
-    "location": "宝箱",
-    "id": "waster-greatsword"
+    "location": "宝箱"
 }

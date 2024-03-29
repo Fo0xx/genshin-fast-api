@@ -1,4 +1,5 @@
 {
+    "id": 51,
     "name": "腐植の剣",
     "type": "Sword",
     "rarity": 4,
@@ -6,6 +7,5 @@
     "subStat": "元素チャージ効率",
     "passiveName": "底なしの渇望",
     "passiveDesc": "元素スキルのダメージ+16%、元素スキルの会心率+6%。",
-    "location": "イベント「白亜と黒龍」",
-    "id": "festering-desire"
+    "location": "イベント「白亜と黒龍」"
 }

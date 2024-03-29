@@ -1,4 +1,5 @@
 {
+    "id": 83,
     "name": "魔導緒論",
     "type": "Catalyst",
     "rarity": 3,
@@ -6,6 +7,5 @@
     "subStat": "元素熟知",
     "passiveName": "水と雷の破滅",
     "passiveDesc": "水元素または雷元素の影響を受けた敵に対するダメージ+12%。",
-    "location": "祈願",
-    "id": "magic-guide"
+    "location": "祈願"
 }

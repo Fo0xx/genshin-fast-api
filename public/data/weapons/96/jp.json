@@ -1,4 +1,5 @@
 {
+    "id": 96,
     "name": "異世界旅行記",
     "type": "Catalyst",
     "rarity": 3,
@@ -6,6 +7,5 @@
     "subStat": "元素チャージ効率",
     "passiveName": "エネルギーシャワー",
     "passiveDesc": "元素オーブまたは元素粒子を獲得した時、HPを1%回復する。",
-    "location": "宝箱等",
-    "id": "otherworldly-story"
+    "location": "宝箱等"
 }

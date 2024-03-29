@@ -1,4 +1,5 @@
 {
+    "id": 7,
     "name": "生徒ノート",
     "type": "Catalyst",
     "rarity": 1,
@@ -6,6 +7,5 @@
     "subStat": "-",
     "passiveName": "-",
     "passiveDesc": "-",
-    "location": "宝箱",
-    "id": "apprentice-s-notes"
+    "location": "宝箱"
 }

@@ -1,4 +1,5 @@
 {
+    "id": 64,
     "name": "Harbinger of Dawn",
     "type": "Sword",
     "rarity": 3,
@@ -7,6 +8,5 @@
     "passiveName": "Vigorous",
     "passiveDesc": "When HP is above 90%, increases CRIT Rate by 14/18/22/24/28%.",
     "location": "Gacha",
-    "ascensionMaterial": "boreal",
-    "id": "harbinger-of-dawn"
+    "ascensionMaterial": "boreal"
 }

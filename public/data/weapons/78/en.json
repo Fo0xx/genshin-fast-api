@@ -1,4 +1,5 @@
 {
+    "id": 78,
     "name": "Lion's Roar",
     "type": "Sword",
     "rarity": 4,
@@ -7,6 +8,5 @@
     "passiveName": "Bane of Fire and Thunder",
     "passiveDesc": "Increases DMG against enemies affected by Pyro or Electro by 20/24/28/32/36%.",
     "location": "Gacha",
-    "ascensionMaterial": "guyun",
-    "id": "lion-s-roar"
+    "ascensionMaterial": "guyun"
 }

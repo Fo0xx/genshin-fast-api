@@ -1,4 +1,5 @@
 {
+    "id": 81,
     "name": "四風原典",
     "type": "Catalyst",
     "rarity": 5,
@@ -6,6 +7,5 @@
     "subStat": "会心率",
     "passiveName": "果てしない恵み",
     "passiveDesc": "移動速度+10%。フィールドにいる時、4秒毎に元素ダメージ+8%、最大4重まで。キャラが退場または戦闘不能まで有効。",
-    "location": "祈願",
-    "id": "lost-prayer-to-the-sacred-winds"
+    "location": "祈願"
 }

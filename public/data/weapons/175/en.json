@@ -1,4 +1,5 @@
 {
+    "id": 175,
     "name": "Verdict",
     "type": "Claymore",
     "rarity": 5,
@@ -7,6 +8,5 @@
     "passiveName": "Many Oaths of Dawn and Dusk",
     "passiveDesc": "Increases ATK by 20/25/30/35/40%. When characters in your party obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 18/22.5/27/31.5/36%. The Seal lasts for 15s, and the equipped may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
     "location": "Gacha",
-    "ascensionMaterial": "ancient-chord",
-    "id": "verdict"
+    "ascensionMaterial": "ancient-chord"
 }

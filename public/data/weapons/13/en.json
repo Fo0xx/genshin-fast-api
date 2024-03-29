@@ -1,4 +1,5 @@
 {
+    "id": 13,
     "name": "Beginner's Protector",
     "type": "Polearm",
     "rarity": 1,
@@ -7,6 +8,5 @@
     "passiveName": "-",
     "passiveDesc": "-",
     "location": "Chest",
-    "ascensionMaterial": "dandelion",
-    "id": "beginner-s-protector"
+    "ascensionMaterial": "dandelion"
 }

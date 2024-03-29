@@ -1,4 +1,5 @@
 {
+    "id": 65,
     "name": "Hunter's Bow",
     "type": "Bow",
     "rarity": 1,
@@ -7,6 +8,5 @@
     "passiveName": "-",
     "passiveDesc": "-",
     "location": "Chest",
-    "ascensionMaterial": "boreal",
-    "id": "hunter-s-bow"
+    "ascensionMaterial": "boreal"
 }

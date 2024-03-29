@@ -1,4 +1,5 @@
 {
+    "id": 25,
     "name": "リングボウ",
     "type": "Bow",
     "rarity": 4,
@@ -6,6 +7,5 @@
     "subStat": "物理ダメージ",
     "passiveName": "注入の矢",
     "passiveDesc": "通常攻撃と重撃が命中する時、攻撃力+4%、通常攻撃速度+1.2%。継続時間6秒、最大4重まで。0.3秒に1回のみ発動可能。",
-    "location": "鍛造",
-    "id": "compound-bow"
+    "location": "鍛造"
 }

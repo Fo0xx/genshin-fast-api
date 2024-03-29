@@ -1,4 +1,5 @@
 {
+    "id": 170,
     "name": "Traveler's Handy Sword",
     "type": "Sword",
     "rarity": 3,
@@ -7,6 +8,5 @@
     "passiveName": "Journey",
     "passiveDesc": "Each Elemental Orb or Particle collected restores 1/1.25/1.5/1.75/2% HP.",
     "location": "Chest",
-    "ascensionMaterial": "dandelion",
-    "id": "traveler-s-handy-sword"
+    "ascensionMaterial": "dandelion"
 }

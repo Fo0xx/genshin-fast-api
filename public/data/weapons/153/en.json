@@ -1,4 +1,5 @@
 {
+    "id": 153,
     "name": "Talking Stick",
     "type": "Claymore",
     "rarity": 4,
@@ -7,6 +8,5 @@
     "passiveName": "The Silver Tongue",
     "passiveDesc": "ATK will be increased by 16% for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by 12% for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
     "location": "BP Bounty",
-    "ascensionMaterial": "Oasis Garden’s Reminiscence ",
-    "id": "talking-stick"
+    "ascensionMaterial": "Oasis Garden’s Reminiscence "
 }

@@ -1,4 +1,5 @@
 {
+    "id": 13,
     "name": "新米の長槍",
     "type": "Polearm",
     "rarity": 1,
@@ -6,6 +7,5 @@
     "subStat": "-",
     "passiveName": "-",
     "passiveDesc": "-",
-    "location": "宝箱",
-    "id": "beginner-s-protector"
+    "location": "宝箱"
 }

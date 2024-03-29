@@ -1,4 +1,5 @@
 {
+    "id": 133,
     "name": "Sharpshooter's Oath",
     "type": "Bow",
     "rarity": 3,
@@ -7,6 +8,5 @@
     "passiveName": "Precise",
     "passiveDesc": "Increases DMG against weak spots by 24/30/36/42/48%.",
     "location": "Gacha",
-    "ascensionMaterial": "boreal",
-    "id": "sharpshooter-s-oath"
+    "ascensionMaterial": "boreal"
 }

@@ -1,4 +1,5 @@
 {
+    "id": 36,
     "name": "Dull Blade",
     "type": "Sword",
     "rarity": 1,
@@ -7,6 +8,5 @@
     "passiveName": "-",
     "passiveDesc": "-",
     "location": "Chest",
-    "ascensionMaterial": "decarabian",
-    "id": "dull-blade"
+    "ascensionMaterial": "decarabian"
 }

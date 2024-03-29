@@ -1,4 +1,5 @@
 {
+    "id": 178,
     "name": "Waster Greatsword",
     "type": "Claymore",
     "rarity": 1,
@@ -7,6 +8,5 @@
     "passiveName": "-",
     "passiveDesc": "-",
     "location": "Chest",
-    "ascensionMaterial": "boreal",
-    "id": "waster-greatsword"
+    "ascensionMaterial": "boreal"
 }

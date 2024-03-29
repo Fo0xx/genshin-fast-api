@@ -1,4 +1,5 @@
 {
+    "id": 154,
     "name": "ダークアレイの閃光",
     "type": "Sword",
     "rarity": 4,
@@ -6,6 +7,5 @@
     "subStat": "元素熟知",
     "passiveName": "路地遊侠",
     "passiveDesc": "キャラクターが与えるダメージ+12%。ダメージを受けると、このダメージアップ効果は5秒間無効になる。",
-    "location": "祈願",
-    "id": "the-alley-flash"
+    "location": "祈願"
 }

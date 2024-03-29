@@ -1,4 +1,5 @@
 {
+    "id": 77,
     "name": "Light of Foliar Incision",
     "type": "Sword",
     "rarity": 5,
@@ -7,6 +8,5 @@
     "passiveName": "Whitemoon Bristle",
     "passiveDesc": "CRIT Rate is increased by 4%. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by 120% of Elemental Mastery.",
     "location": "Gacha",
-    "ascensionMaterial": "Copper Talisman of the Forest Dew",
-    "id": "light-of-foliar-incision"
+    "ascensionMaterial": "Copper Talisman of the Forest Dew"
 }

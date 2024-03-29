@@ -1,4 +1,5 @@
 {
+    "id": 37,
     "name": "Ebony Bow",
     "type": "Bow",
     "rarity": 3,
@@ -7,6 +8,5 @@
     "passiveName": "Decimate",
     "passiveDesc": "Increases DMG against mechanoid Ruin enemies by 40/50/60/70/80%.",
     "location": "Chests",
-    "ascensionMaterial": "",
-    "id": "ebony-bow"
+    "ascensionMaterial": ""
 }

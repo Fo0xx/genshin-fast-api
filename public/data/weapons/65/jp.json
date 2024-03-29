@@ -1,4 +1,5 @@
 {
+    "id": 65,
     "name": "狩猟弓",
     "type": "Bow",
     "rarity": 1,
@@ -6,6 +7,5 @@
     "subStat": "-",
     "passiveName": "-",
     "passiveDesc": "-",
-    "location": "宝箱",
-    "id": "hunter-s-bow"
+    "location": "宝箱"
 }

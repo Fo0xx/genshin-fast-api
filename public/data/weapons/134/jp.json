@@ -1,4 +1,5 @@
 {
+    "id": 134,
     "name": "銀の剣",
     "type": "Sword",
     "rarity": 2,
@@ -6,6 +7,5 @@
     "subStat": "-",
     "passiveName": "-",
     "passiveDesc": "-",
-    "location": "宝箱",
-    "id": "silver-sword"
+    "location": "宝箱"
 }

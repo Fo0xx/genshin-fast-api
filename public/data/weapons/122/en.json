@@ -1,4 +1,5 @@
 {
+    "id": 122,
     "name": "Royal Spear",
     "type": "Polearm",
     "rarity": 4,
@@ -6,6 +7,5 @@
     "subStat": "ATK",
     "passiveName": "Focus",
     "passiveDesc": "Upon damaging an opponent, increases CRIT Rate by 8%. Max 5 stacks. A CRIT Hit removes all stacks.",
-    "location": "Starglitter Exchange",
-    "id": "royal-spear"
+    "location": "Starglitter Exchange"
 }

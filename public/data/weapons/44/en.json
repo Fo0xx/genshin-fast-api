@@ -1,4 +1,5 @@
 {
+    "id": 44,
     "name": "Fading Twilight",
     "type": "Bow",
     "rarity": 4,
@@ -7,6 +8,5 @@
     "passiveName": "Radiance of the Deeps",
     "passiveDesc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt from 6%/10%/14% (R1) to 12%/20%/28% (R5) respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
     "location": "Event: Perilous Trail",
-    "ascensionMaterial": "aerosiderite",
-    "id": "fading-twilight"
+    "ascensionMaterial": "aerosiderite"
 }

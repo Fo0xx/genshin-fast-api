@@ -1,4 +1,5 @@
 {
+    "id": 29,
     "name": "Dark Iron Sword",
     "type": "Sword",
     "rarity": 3,
@@ -7,6 +8,5 @@
     "passiveName": "Overloaded",
     "passiveDesc": "Upon causing an Overloaded, Superconduct, Electro-Charged, or an Electro-infused Swirl reaction, increases Base ATK by 20/25/30/35/40% for 12s.",
     "location": "Talk to Chen the Sharp",
-    "ascensionMaterial": "guyun",
-    "id": "dark-iron-sword"
+    "ascensionMaterial": "guyun"
 }

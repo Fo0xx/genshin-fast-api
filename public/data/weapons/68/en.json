@@ -1,4 +1,5 @@
 {
+    "id": 68,
     "name": "Iron Point",
     "type": "Polearm",
     "rarity": 2,
@@ -7,6 +8,5 @@
     "passiveName": "-",
     "passiveDesc": "-",
     "location": "Chest",
-    "ascensionMaterial": "dandelion",
-    "id": "iron-point"
+    "ascensionMaterial": "dandelion"
 }

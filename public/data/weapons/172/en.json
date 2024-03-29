@@ -1,4 +1,5 @@
 {
+    "id": 172,
     "name": "Twin Nephrite",
     "type": "Catalyst",
     "rarity": 3,
@@ -7,6 +8,5 @@
     "passiveName": "Guerilla Tactic",
     "passiveDesc": "Defeating an enemy increases Movement SPD and ATK by 12/14/16/18/20% for 15s.",
     "location": "Chests",
-    "ascensionMaterial": "elixir",
-    "id": "twin-nephrite"
+    "ascensionMaterial": "elixir"
 }

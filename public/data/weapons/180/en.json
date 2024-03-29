@@ -1,4 +1,5 @@
 {
+    "id": 180,
     "name": "White Iron Greatsword",
     "type": "Claymore",
     "rarity": 3,
@@ -7,6 +8,5 @@
     "passiveName": "Cull the Weak",
     "passiveDesc": "Defeating an opponent restores 8/10/12/14/16% HP.",
     "location": "Chests",
-    "ascensionMaterial": "dandelion",
-    "id": "white-iron-greatsword"
+    "ascensionMaterial": "dandelion"
 }

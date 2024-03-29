@@ -1,4 +1,5 @@
 {
+    "id": 134,
     "name": "Silver Sword",
     "type": "Sword",
     "rarity": 2,
@@ -7,6 +8,5 @@
     "passiveName": "-",
     "passiveDesc": "-",
     "location": "Chest",
-    "ascensionMaterial": "decarabian",
-    "id": "silver-sword"
+    "ascensionMaterial": "decarabian"
 }

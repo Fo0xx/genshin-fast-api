@@ -1,4 +1,5 @@
 {
+    "id": 68,
     "name": "鉄尖槍",
     "type": "Polearm",
     "rarity": 2,
@@ -6,6 +7,5 @@
     "subStat": "-",
     "passiveName": "-",
     "passiveDesc": "-",
-    "location": "宝箱",
-    "id": "iron-point"
+    "location": "宝箱"
 }

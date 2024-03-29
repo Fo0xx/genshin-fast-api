@@ -1,4 +1,5 @@
 {
+    "id": 114,
     "name": "Raven Bow",
     "type": "Bow",
     "rarity": 3,
@@ -7,6 +8,5 @@
     "passiveName": "Bane of Flame and Water",
     "passiveDesc": "Increases DMG against enemies affected by Hydro or Pyro by 12/15/18/21/24%.",
     "location": "Gacha",
-    "ascensionMaterial": "decarabian",
-    "id": "raven-bow"
+    "ascensionMaterial": "decarabian"
 }

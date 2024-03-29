@@ -1,4 +1,5 @@
 {
+    "id": 26,
     "name": "Cool Steel",
     "type": "Sword",
     "rarity": 3,
@@ -7,6 +8,5 @@
     "passiveName": "Bane of Water and Ice",
     "passiveDesc": "Increases DMG against enemies affected by Hydro or Cryo by 12/15/18/21/24%.",
     "location": "Gacha",
-    "ascensionMaterial": "decarabian",
-    "id": "cool-steel"
+    "ascensionMaterial": "decarabian"
 }

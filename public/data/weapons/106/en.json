@@ -1,4 +1,5 @@
 {
+    "id": 106,
     "name": "Prototype Crescent",
     "type": "Bow",
     "rarity": 4,
@@ -7,6 +8,5 @@
     "passiveName": "Unreturning",
     "passiveDesc": "Aimed Shot hits on weak points increase Movement SPD by 10% and ATK by 6% for 10s.",
     "location": "Crafting",
-    "ascensionMaterial": "elixir",
-    "id": "prototype-crescent"
+    "ascensionMaterial": "elixir"
 }

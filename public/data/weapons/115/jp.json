@@ -1,4 +1,5 @@
 {
+    "id": 115,
     "name": "リカーブボウ",
     "type": "Bow",
     "rarity": 3,
@@ -6,6 +7,5 @@
     "subStat": "HP",
     "passiveName": "刈り取る",
     "passiveDesc": "敵を倒したとき、HPを8%回復する。",
-    "location": "宝箱",
-    "id": "recurve-bow"
+    "location": "宝箱"
 }

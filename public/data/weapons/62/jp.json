@@ -1,4 +1,5 @@
 {
+    "id": 62,
     "name": "破魔の弓",
     "type": "Bow",
     "rarity": 4,
@@ -6,6 +7,5 @@
     "subStat": "攻撃力",
     "passiveName": "浅瀨の弭",
     "passiveDesc": "通常攻撃のダメージ+16%、重撃のダメージ+12%。この武器を装備したキャラクターの元素エネルギーが満タンの場合、該当効果が2倍になる。",
-    "location": "鍛造",
-    "id": "hamayumi"
+    "location": "鍛造"
 }

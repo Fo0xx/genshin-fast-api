@@ -1,4 +1,5 @@
 {
+    "id": 97,
     "name": "ポケット魔導書",
     "type": "Catalyst",
     "rarity": 2,
@@ -6,6 +7,5 @@
     "subStat": "-",
     "passiveName": "-",
     "passiveDesc": "-",
-    "location": "宝箱",
-    "id": "pocket-grimoire"
+    "location": "宝箱"
 }

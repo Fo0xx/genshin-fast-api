@@ -1,4 +1,5 @@
 {
+    "id": 34,
     "name": "Dragon's Bane",
     "type": "Polearm",
     "rarity": 4,
@@ -7,6 +8,5 @@
     "passiveName": "Bane of Flame and Water",
     "passiveDesc": "Increases DMG against enemies affected by Hydro or Pyro by 20/24/28/32/36%.",
     "location": "Gacha",
-    "ascensionMaterial": "elixir",
-    "id": "dragon-s-bane"
+    "ascensionMaterial": "elixir"
 }

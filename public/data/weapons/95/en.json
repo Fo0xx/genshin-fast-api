@@ -1,4 +1,5 @@
 {
+    "id": 95,
     "name": "Old Merc's Pal",
     "type": "Claymore",
     "rarity": 2,
@@ -7,6 +8,5 @@
     "passiveName": "-",
     "passiveDesc": "-",
     "location": "Chest",
-    "ascensionMaterial": "boreal",
-    "id": "old-merc-s-pal"
+    "ascensionMaterial": "boreal"
 }

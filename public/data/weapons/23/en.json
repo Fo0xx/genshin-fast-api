@@ -1,4 +1,5 @@
 {
+    "id": 23,
     "name": "Cashflow Supervision",
     "type": "Catalyst",
     "rarity": 5,
@@ -7,6 +8,5 @@
     "passiveName": "Golden Blood-Tide",
     "passiveDesc": "ATK is increased by 16/20/24/28/32%. When current HP increases or decreases, Normal Attack DMG will be increased by 16/20/24/28/32% and Charged Attack DMG will be increased by 14/17.5/21/24.5/28% for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by 8/10/12/14/16%.",
     "location": "Gacha",
-    "ascensionMaterial": "pristine-sea",
-    "id": "cashflow-supervision"
+    "ascensionMaterial": "pristine-sea"
 }

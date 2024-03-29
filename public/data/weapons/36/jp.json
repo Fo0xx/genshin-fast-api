@@ -1,4 +1,5 @@
 {
+    "id": 36,
     "name": "無鋒の剣",
     "type": "Sword",
     "rarity": 1,
@@ -6,6 +7,5 @@
     "subStat": "-",
     "passiveName": "-",
     "passiveDesc": "-",
-    "location": "宝箱",
-    "id": "dull-blade"
+    "location": "宝箱"
 }

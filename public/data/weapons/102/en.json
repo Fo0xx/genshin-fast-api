@@ -1,4 +1,5 @@
 {
+    "id": 102,
     "name": "Primordial Jade Winged-Spear",
     "type": "Polearm",
     "rarity": 5,
@@ -7,6 +8,5 @@
     "passiveName": "Eagle Spear of Justice",
     "passiveDesc": "On hit, increases ATK by 3.2/3.9/4.6/5.3/6% for 6s. Max 7 stacks. Can only occur once every 0.3s. Full stacks increase Skill DMG by 12/16/20/24/28%.",
     "location": "Gacha",
-    "ascensionMaterial": "guyun",
-    "id": "primordial-jade-winged-spear"
+    "ascensionMaterial": "guyun"
 }

@@ -1,4 +1,5 @@
 {
+    "id": 7,
     "name": "Apprentice's Notes",
     "type": "Catalyst",
     "rarity": 1,
@@ -7,6 +8,5 @@
     "passiveName": "-",
     "passiveDesc": "-",
     "location": "Chest",
-    "ascensionMaterial": "decarabian",
-    "id": "apprentice-s-notes"
+    "ascensionMaterial": "decarabian"
 }

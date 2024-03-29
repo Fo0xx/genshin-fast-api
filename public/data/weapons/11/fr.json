@@ -1,4 +1,5 @@
 {
+    "id": 11,
     "name": "Ballade des fjords",
     "type": "Arme d'hast",
     "rarity": 4,
@@ -7,6 +8,5 @@
     "passiveName": "Contes de la toundra",
     "passiveDesc": "Lorsque votre équipe contient des personnages d'au moins 3 types élémentaires différents, la maîtrise élémentaire augmente de 120 pts.",
     "location": "Récompense du passe de bataille",
-    "ascensionMaterial": "Gobelet d'or la mer immaculée",
-    "id": "ballad-of-the-fjords"
+    "ascensionMaterial": "Gobelet d'or la mer immaculée"
 }

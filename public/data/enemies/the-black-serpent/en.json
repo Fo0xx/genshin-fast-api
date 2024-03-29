@@ -6,13 +6,7 @@
     "type": "Elite Enemies",
     "family": "The Abyss",
     "faction": "Abyss Order",
-    "elements": [
-        "Cryo",
-        "Hydro",
-        "Pyro",
-        "Anemo",
-        "Geo"
-    ],
+    "elements": ["Cryo", "Hydro", "Pyro", "Anemo", "Geo"],
     "drops": [
         {
             "name": "Gloomy Statuette",

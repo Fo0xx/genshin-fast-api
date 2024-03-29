@@ -5,10 +5,7 @@
     "description": "N/A",
     "type": "Common Enemies",
     "family": "Other Human Factions",
-    "elements": [
-        "Electro",
-        "Pyro"
-    ],
+    "elements": ["Electro", "Pyro"],
     "drops": [
         {
             "name": "Old Handguard",

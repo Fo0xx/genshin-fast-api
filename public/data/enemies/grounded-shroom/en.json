@@ -5,10 +5,7 @@
     "description": "N/A",
     "type": "Common Enemies",
     "family": "Mystical Beasts",
-    "elements": [
-        "Geo",
-        "Hydro"
-    ],
+    "elements": ["Geo", "Hydro"],
     "drops": [
         {
             "name": "Fungal Spores",

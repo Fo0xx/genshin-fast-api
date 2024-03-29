@@ -6,9 +6,7 @@
     "type": "Elite Enemies",
     "family": "Fatui",
     "faction": "Fatui",
-    "elements": [
-        "Pyro"
-    ],
+    "elements": ["Pyro"],
     "drops": [
         {
             "name": "Hunter's Sacrificial Knife",

@@ -51,9 +51,7 @@
                 "rarity": 3
             }
         ],
-        "sources": [
-            "Slime"
-        ]
+        "sources": ["Slime"]
     },
     "hilichurl-masks": {
         "characters": [
@@ -107,20 +105,10 @@
                 "rarity": 3
             }
         ],
-        "sources": [
-            "Hilichurl",
-            "Samachurl",
-            "Mitachurl",
-            "Lawachurl"
-        ]
+        "sources": ["Hilichurl", "Samachurl", "Mitachurl", "Lawachurl"]
     },
     "hilichurl-arrowheads": {
-        "characters": [
-            "amber",
-            "diona",
-            "fischl",
-            "collei"
-        ],
+        "characters": ["amber", "diona", "fischl", "collei"],
         "weapons": [
             "aquila-favonia",
             "skyward-atlas",
@@ -163,9 +151,7 @@
                 "rarity": 3
             }
         ],
-        "sources": [
-            "Hilichurl Archer"
-        ]
+        "sources": ["Hilichurl Archer"]
     },
     "samachurl-scrolls": {
         "characters": [
@@ -215,9 +201,7 @@
                 "rarity": 3
             }
         ],
-        "sources": [
-            "Samachurl"
-        ]
+        "sources": ["Samachurl"]
     },
     "treasure-hoarder-insignias": {
         "characters": [
@@ -269,9 +253,7 @@
                 "rarity": 3
             }
         ],
-        "sources": [
-            "Treasure Hoarder"
-        ]
+        "sources": ["Treasure Hoarder"]
     },
     "fatui-insignias": {
         "characters": [
@@ -317,11 +299,7 @@
                 "rarity": 3
             }
         ],
-        "sources": [
-            "Fatui Skirmisher",
-            "Fatui Cicin Mage",
-            "Fatui Agent"
-        ]
+        "sources": ["Fatui Skirmisher", "Fatui Cicin Mage", "Fatui Agent"]
     },
     "whopperflower-nectar": {
         "characters": [
@@ -366,9 +344,7 @@
                 "rarity": 3
             }
         ],
-        "sources": [
-            "Whopperflower"
-        ]
+        "sources": ["Whopperflower"]
     },
     "hilichurl-horns": {
         "weapons": [
@@ -412,10 +388,7 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Mitachurl",
-            "Lawachurl"
-        ]
+        "sources": ["Mitachurl", "Lawachurl"]
     },
     "ley-line": {
         "weapons": [
@@ -462,18 +435,10 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Abyss Mage"
-        ]
+        "sources": ["Abyss Mage"]
     },
     "nobushi": {
-        "characters": [
-            "ayaka",
-            "ayato",
-            "raiden",
-            "wanderer",
-            "yae-miko"
-        ],
+        "characters": ["ayaka", "ayato", "raiden", "wanderer", "yae-miko"],
         "weapons": [
             "engulfing-lightning",
             "haran-geppaku-futsu",
@@ -503,9 +468,7 @@
                 "rarity": 3
             }
         ],
-        "sources": [
-            "Nobushi"
-        ]
+        "sources": ["Nobushi"]
     },
     "bone-shards": {
         "weapons": [
@@ -541,9 +504,7 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Geovishap Hatchling"
-        ]
+        "sources": ["Geovishap Hatchling"]
     },
     "mist-grass": {
         "weapons": [
@@ -583,9 +544,7 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Fatui Cicin Mage"
-        ]
+        "sources": ["Fatui Cicin Mage"]
     },
     "fatui-knives": {
         "weapons": [
@@ -623,18 +582,10 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Fatui Agent"
-        ]
+        "sources": ["Fatui Agent"]
     },
     "specters": {
-        "characters": [
-            "aloy",
-            "gorou",
-            "kirara",
-            "kuki-shinobu",
-            "kokomi"
-        ],
+        "characters": ["aloy", "gorou", "kirara", "kuki-shinobu", "kokomi"],
         "weapons": [
             "aqua-simulacra",
             "everlasting-moonglow",
@@ -663,9 +614,7 @@
                 "rarity": 3
             }
         ],
-        "sources": [
-            "Specter"
-        ]
+        "sources": ["Specter"]
     },
     "chaos-parts": {
         "weapons": [
@@ -708,20 +657,10 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Ruin Guard",
-            "Ruin Hunter",
-            "Ruin Grader"
-        ]
+        "sources": ["Ruin Guard", "Ruin Hunter", "Ruin Grader"]
     },
     "eremites-red": {
-        "characters": [
-            "faruzan",
-            "dori",
-            "alhaitham",
-            "dehya",
-            "candace"
-        ],
+        "characters": ["faruzan", "dori", "alhaitham", "dehya", "candace"],
         "weapons": [
             "beacon-of-the-reed-sea",
             "hunter-s-path",
@@ -749,18 +688,10 @@
                 "rarity": 3
             }
         ],
-        "sources": [
-            "Eremites"
-        ]
+        "sources": ["Eremites"]
     },
     "fungals-spores": {
-        "characters": [
-            "nahida",
-            "baizhu",
-            "kaveh",
-            "nilou",
-            "tighnari"
-        ],
+        "characters": ["nahida", "baizhu", "kaveh", "nilou", "tighnari"],
         "weapons": [
             "a-thousand-floating-dreams",
             "jadefall-s-splendor",
@@ -798,12 +729,7 @@
         ]
     },
     "clockwork-meka": {
-        "characters": [
-            "lynette",
-            "charlotte",
-            "chevreuse",
-            "wriothesley"
-        ],
+        "characters": ["lynette", "charlotte", "chevreuse", "wriothesley"],
         "weapons": [
             "tome-of-the-eternal",
             "verdict",
@@ -830,16 +756,10 @@
                 "rarity": 3
             }
         ],
-        "sources": [
-            "Clockwork Mek"
-        ]
+        "sources": ["Clockwork Mek"]
     },
     "fontemer-aberrant": {
-        "characters": [
-            "navia",
-            "freminet",
-            "neuvillette"
-        ],
+        "characters": ["navia", "freminet", "neuvillette"],
         "weapons": [
             "cashflow-supervision",
             "splendor-of-tranquil-waters",
@@ -902,9 +822,7 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Primal Constructs"
-        ]
+        "sources": ["Primal Constructs"]
     },
     "breacher-primus": {
         "weapons": [
@@ -932,10 +850,7 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Shatterstone Breacher Primus",
-            "Overgrown Breacher Primus"
-        ]
+        "sources": ["Shatterstone Breacher Primus", "Overgrown Breacher Primus"]
     },
     "black-serpents": {
         "weapons": [
@@ -962,11 +877,7 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Abyss Heralds",
-            "Black Serpent Knight",
-            "Shadowy Husks"
-        ]
+        "sources": ["Abyss Heralds", "Black Serpent Knight", "Shadowy Husks"]
     },
     "hilichurl-rogue": {
         "weapons": [
@@ -992,9 +903,7 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Hilichurl Rogue"
-        ]
+        "sources": ["Hilichurl Rogue"]
     },
     "consecrated-beast": {
         "weapons": [
@@ -1053,10 +962,7 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Frost Operative",
-            "Wind Operative"
-        ]
+        "sources": ["Frost Operative", "Wind Operative"]
     },
     "mirror-maiden-prisms": {
         "weapons": [
@@ -1084,9 +990,7 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Mirror Maiden"
-        ]
+        "sources": ["Mirror Maiden"]
     },
     "ruin-sentinels-chaos": {
         "weapons": [
@@ -1147,10 +1051,7 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Rifthound",
-            "Rifthound Whelp"
-        ]
+        "sources": ["Rifthound", "Rifthound Whelp"]
     },
     "tainted-hydro-phantasm": {
         "weapons": [
@@ -1178,9 +1079,7 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Tainted Hydro Phantasm"
-        ]
+        "sources": ["Tainted Hydro Phantasm"]
     },
     "state-shifted-fungus": {
         "weapons": [
@@ -1240,9 +1139,7 @@
                 "rarity": 4
             }
         ],
-        "sources": [
-            "Ruin Drakes"
-        ]
+        "sources": ["Ruin Drakes"]
     },
     "id": "common-ascension"
 }

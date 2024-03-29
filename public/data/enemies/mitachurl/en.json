@@ -6,9 +6,7 @@
     "type": "Elite Enemies",
     "family": "Hilichurls",
     "faction": "Abyss Order",
-    "elements": [
-        "Pyro"
-    ],
+    "elements": ["Pyro"],
     "drops": [
         {
             "name": "Heavy Horn",

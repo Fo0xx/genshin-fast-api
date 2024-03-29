@@ -5,11 +5,7 @@
     "description": "N/A",
     "type": "Common Enemies",
     "family": "Mystical Beasts",
-    "elements": [
-        "Cryo",
-        "Electro",
-        "Pyro"
-    ],
+    "elements": ["Cryo", "Electro", "Pyro"],
     "drops": [
         {
             "name": "Fungal Spores",

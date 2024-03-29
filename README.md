@@ -5,7 +5,6 @@
 ![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/Fo0xx/genshin-fast-api/keyv?style=for-the-badge&logo=bun&color=green)
 ![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/Fo0xx/genshin-fast-api/sharp?style=for-the-badge&logo=bun&color=green)
 
-
 This is an unofficial remake of the [Genshin.dev Impact API](https://github.com/genshindev/api).
 
 This is an API that serves data for the game Genshin Impact by miHoYo.
@@ -23,32 +22,32 @@ This API only provides static data about the game.
 
 > **:information_source: Notice:** Please replace `<baseUrl>` with the endpoint you are trying to access.
 
-| Endpoint                        | Description                                                      | Example Usage (bash)                  |
-| ------------------------------- | ---------------------------------------------------------------- | ------------------------------------- |
-| `/genshin`                      | Returns a list of available entity types.                        | `curl <baseUrl>/genshin`              |
-| `/genshin/:type`                | Returns a list of available entities of a type.                  | `curl <baseUrl>/genshin/characters`   |
-| `/genshin/:type/:id`            | Returns the data of a specific entity.                           | `curl <baseUrl>/genshin/characters/1` |
-| `/genshin/:type/:id/list`       | Returns a list of available image types for a specific entity.   | `curl <baseUrl>/characters/1/list`    |
-| `/genshin/:type/:id/:imageType` | Returns the image of a specific entity.                          | `curl <baseUrl>/characters/1/card`    |
+| Endpoint                        | Description                                                    | Example Usage (bash)                  |
+| ------------------------------- | -------------------------------------------------------------- | ------------------------------------- |
+| `/genshin`                      | Returns a list of available entity types.                      | `curl <baseUrl>/genshin`              |
+| `/genshin/:type`                | Returns a list of available entities of a type.                | `curl <baseUrl>/genshin/characters`   |
+| `/genshin/:type/:id`            | Returns the data of a specific entity.                         | `curl <baseUrl>/genshin/characters/1` |
+| `/genshin/:type/:id/list`       | Returns a list of available image types for a specific entity. | `curl <baseUrl>/characters/1/list`    |
+| `/genshin/:type/:id/:imageType` | Returns the image of a specific entity.                        | `curl <baseUrl>/characters/1/card`    |
 
 > **:information_source: Notice:** You can provide an optional `lang` query parameter to localize the responses.
 > Not all data might be included in all languages!
 
 ## Planned Features
 
-- Entity relationships (e.g. characters linking to the best weapon for them)
-- Web UI to make adding data even more simple
+-   Entity relationships (e.g. characters linking to the best weapon for them)
+-   Web UI to make adding data even more simple
 
 ## Prerequisites
 
-- Node.js (v18 or higher)
-- Bun (npm install -g bun)
+-   Node.js (v18 or higher)
+-   Bun (npm install -g bun)
 
 ## Installation
 
 Install packages with bun:
 
-```bash 
+```bash
 bun install
 ```
 

@@ -6,9 +6,7 @@
     "type": "Elite Enemies",
     "family": "Automatons",
     "faction": "Humanoid Ruin Machines",
-    "elements": [
-        "Pyro"
-    ],
+    "elements": ["Pyro"],
     "drops": [
         {
             "name": "Chaos Device",

@@ -58,9 +58,7 @@
             ]
         }
     ],
-    "recommendedElements": [
-        "Electro"
-    ],
+    "recommendedElements": ["Electro"],
     "rewards": [
         {
             "day": "always",

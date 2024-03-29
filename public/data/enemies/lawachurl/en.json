@@ -6,10 +6,7 @@
     "type": "Elite Enemies",
     "family": "Hilichurls",
     "faction": "Abyss Order",
-    "elements": [
-        "Cryo",
-        "Geo"
-    ],
+    "elements": ["Cryo", "Geo"],
     "drops": [
         {
             "name": "Heavy Horn",

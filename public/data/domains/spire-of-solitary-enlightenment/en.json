@@ -38,11 +38,7 @@
             ]
         }
     ],
-    "recommendedElements": [
-        "Electro",
-        "Cryo",
-        "Hydro"
-    ],
+    "recommendedElements": ["Electro", "Cryo", "Hydro"],
     "rewards": [
         {
             "day": "always",

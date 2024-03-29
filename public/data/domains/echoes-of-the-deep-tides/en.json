@@ -38,12 +38,7 @@
             ]
         }
     ],
-    "recommendedElements": [
-        "Hydro",
-        "Pyro",
-        "Cryo",
-        "Anemo"
-    ],
+    "recommendedElements": ["Hydro", "Pyro", "Cryo", "Anemo"],
     "rewards": [
         {
             "day": "mon",

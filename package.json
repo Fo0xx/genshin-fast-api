@@ -1,21 +1,33 @@
 {
-  "name": "genshin-api",
-  "version": "1.0.50",
-  "scripts": {
-    "dev": "bun --watch src/index.ts",
-    "build": "bun build src/index.ts",
-    "start": "NODE_ENV=production bun src/index.ts",
-    "test": "bun test"
-  },
-  "dependencies": {
-    "@elysiajs/swagger": "^1.0.3",
-    "elysia": "latest",
-    "elysia-helmet": "^1.0.2",
-    "keyv": "^4.5.4",
-    "sharp": "^0.33.3"
-  },
-  "devDependencies": {
-    "bun-types": "latest"
-  },
-  "module": "src/index.js"
+    "name": "genshin-api",
+    "version": "1.0.50",
+    "scripts": {
+        "dev": "bun --watch src/index.ts",
+        "build": "bun build src/index.ts",
+        "start": "NODE_ENV=production bun src/index.ts",
+        "test": "bun test",
+        "----CHECK": "",
+        "format:check": "prettier --check .",
+        "format:fix": "prettier --write .",
+        "lint": "eslint --ignore-path .gitignore .",
+        "lint:fix": "eslint --ignore-path .gitignore --fix . ",
+        "typecheck": "tsc --noEmit"
+    },
+    "dependencies": {
+        "@elysiajs/swagger": "^1.0.3",
+        "elysia": "latest",
+        "elysia-helmet": "^1.0.2",
+        "keyv": "^4.5.4",
+        "sharp": "^0.33.3"
+    },
+    "devDependencies": {
+        "@ianvs/prettier-plugin-sort-imports": "^4.2.1",
+        "@typescript-eslint/eslint-plugin": "latest",
+        "@typescript-eslint/parser": "latest",
+        "bun-types": "latest",
+        "eslint": "^8.57.0",
+        "eslint-config-prettier": "^9.1.0",
+        "prettier": "^3.2.5"
+    },
+    "module": "src/index.js"
 }

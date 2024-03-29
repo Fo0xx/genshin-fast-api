@@ -5,11 +5,7 @@
     "description": "N/A",
     "type": "Common Enemies",
     "family": "Mystical Beasts",
-    "elements": [
-        "Anemo",
-        "Dendro",
-        "Hydro"
-    ],
+    "elements": ["Anemo", "Dendro", "Hydro"],
     "drops": [
         {
             "name": "Fungal Spores",

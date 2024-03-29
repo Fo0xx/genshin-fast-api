@@ -6,10 +6,7 @@
     "type": "Elite Enemies",
     "family": "Fatui",
     "faction": "Fatui",
-    "element": [
-        "Cryo",
-        "Electro"
-    ],
+    "element": ["Cryo", "Electro"],
     "drops": [
         {
             "name": "Mist Grass Pollen",

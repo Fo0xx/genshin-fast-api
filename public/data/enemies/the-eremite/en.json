@@ -5,15 +5,7 @@
     "description": "N/A",
     "type": "Common Enemies",
     "family": "Other Human Factions",
-    "elements": [
-        "Electro",
-        "Pyro",
-        "Cryo",
-        "Hydro",
-        "Geo",
-        "Anemo",
-        "Dendro"
-    ],
+    "elements": ["Electro", "Pyro", "Cryo", "Hydro", "Geo", "Anemo", "Dendro"],
     "drops": [
         {
             "name": "Faded Red Satin",

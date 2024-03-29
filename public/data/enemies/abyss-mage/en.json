@@ -6,12 +6,7 @@
     "type": "Elite Enemies",
     "family": "The Abyss",
     "faction": "Abyss Order",
-    "elements": [
-        "Hydro",
-        "Pyro",
-        "Cryo",
-        "Electro"
-    ],
+    "elements": ["Hydro", "Pyro", "Cryo", "Electro"],
     "drops": [
         {
             "name": "Dead Ley Line Branch",

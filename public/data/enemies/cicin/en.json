@@ -5,11 +5,7 @@
     "description": "N/A",
     "type": "Common Enemies",
     "family": "Mystical Beasts",
-    "elements": [
-        "Cryo",
-        "Electro",
-        "Hydro"
-    ],
+    "elements": ["Cryo", "Electro", "Hydro"],
     "drops": "None",
     "elemental-descriptions": [
         {

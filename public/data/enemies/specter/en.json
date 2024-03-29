@@ -5,15 +5,7 @@
     "description": "A pudgy elemental life form. It's said that desserts made from slimes of different elements will have incredibly distinctive flavors.",
     "type": "Common Enemies",
     "family": "Elemental Lifeforms",
-    "elements": [
-        "Anemo",
-        "Geo",
-        "Dendro",
-        "Hydro",
-        "Cyro",
-        "Pyro",
-        "Electro"
-    ],
+    "elements": ["Anemo", "Geo", "Dendro", "Hydro", "Cyro", "Pyro", "Electro"],
     "drops": [
         {
             "name": "Spectral Husk",

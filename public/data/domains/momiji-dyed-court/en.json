@@ -38,10 +38,7 @@
             ]
         }
     ],
-    "recommendedElements": [
-        "Pyro",
-        "Cryo"
-    ],
+    "recommendedElements": ["Pyro", "Cryo"],
     "rewards": [
         {
             "day": "always",

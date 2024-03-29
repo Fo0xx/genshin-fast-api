@@ -6,9 +6,7 @@
     "type": "Elite Enemies",
     "family": "Fatui",
     "faction": "Fatui",
-    "elements": [
-        "Hydro"
-    ],
+    "elements": ["Hydro"],
     "drops": [
         {
             "name": "Dismal Prism",

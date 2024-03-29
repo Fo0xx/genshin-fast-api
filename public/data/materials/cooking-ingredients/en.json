@@ -2,34 +2,23 @@
     "almond": {
         "name": "Almond",
         "description": "A seed with a peculiar fragrance that gives food a refreshing taste.",
-        "sources": [
-            "Sold by Second Life",
-            "Sold by Ms. Bai"
-        ]
+        "sources": ["Sold by Second Life", "Sold by Ms. Bai"]
     },
     "bacon": {
         "name": "Bacon",
         "description": "Smoked strips of pork. With just enough fat, but not too greasy.Mmmmm... Bacon.Meat must be processed first to be made into Bacon.",
         "rarity": 3,
-        "sources": [
-            "Sold by Good Hunter",
-            "Processing"
-        ]
+        "sources": ["Sold by Good Hunter", "Processing"]
     },
     "bamboo-shoot": {
         "name": "Bamboo Shoot",
         "description": "A fresh young bamboo shoot, straight out of the ground. It is a delicious cooking ingredient with an exotic aroma, found exclusively in bamboo-growing regions.",
-        "sources": [
-            "Found in the wild",
-            "Sold by Wanmin Restaurant"
-        ]
+        "sources": ["Found in the wild", "Sold by Wanmin Restaurant"]
     },
     "berry": {
         "name": "Berry",
         "description": "Small brightly-colored fruit. They can be found everywhere, and the taste of them wipes the fatigue of a long journey away.",
-        "sources": [
-            "Found in the wild"
-        ]
+        "sources": ["Found in the wild"]
     },
     "bird-egg": {
         "name": "Bird Egg",
@@ -43,11 +32,7 @@
         "name": "Butter",
         "description": "An extract from milk. With the appropriate application, it can bring rich aromas to even the most basic ingredients.",
         "rarity": 2,
-        "sources": [
-            "Sold by Good Hunter",
-            "Sold by Verr Goldet",
-            "Processing"
-        ]
+        "sources": ["Sold by Good Hunter", "Sold by Verr Goldet", "Processing"]
     },
     "cabbage": {
         "name": "Cabbage",
@@ -62,11 +47,7 @@
     "calla-lily": {
         "name": "Calla Lily",
         "description": "A flower that grows near water sources. When cooked the petals have a chunky texture, yet are sweet and a little bitter.",
-        "sources": [
-            "Found near lakes",
-            "Found in Springvale",
-            "Sold by Flora"
-        ]
+        "sources": ["Found near lakes", "Found in Springvale", "Sold by Flora"]
     },
     "carrot": {
         "name": "Carrot",
@@ -81,18 +62,12 @@
         "name": "Cheese",
         "description": "Made from fermented milk. With high energy and limitless possibilities, it's used in a wide range of dishes.Milk must be processed first to be made into Cheese.",
         "rarity": 3,
-        "sources": [
-            "Sold by Good Hunter",
-            "Processing",
-            "Sold by Changshun"
-        ]
+        "sources": ["Sold by Good Hunter", "Processing", "Sold by Changshun"]
     },
     "chilled-meat": {
         "name": "Chilled Meat",
         "description": "Rare, fresh meat.This species of boar is recorded to have gone extinct several hundred years ago and has been preserved by the extreme temperatures on Dragonspine. For the gourmets of Teyvat, this is an ingredient of unspeakable sacrosanctness.",
-        "sources": [
-            "Snowboars"
-        ]
+        "sources": ["Snowboars"]
     },
     "crab": {
         "name": "Crab",
@@ -107,19 +82,13 @@
         "name": "Crab Roe",
         "description": "A delicacy specific to female crabs. A rare and prized ingredient that isn't quite to everyone's taste.",
         "rarity": 3,
-        "sources": [
-            "Sold by Good Hunter",
-            "Processing"
-        ]
+        "sources": ["Sold by Good Hunter", "Processing"]
     },
     "cream": {
         "name": "Cream",
         "description": "A dairy product made from milk. An essential ingredient in making pastries.",
         "rarity": 2,
-        "sources": [
-            "Sold by Good Hunter",
-            "Processing"
-        ]
+        "sources": ["Sold by Good Hunter", "Processing"]
     },
     "fish": {
         "name": "Fish",
@@ -162,10 +131,7 @@
         "name": "Jam",
         "description": "A puree made from fruit and sugar. Even a little bit can easily wake up drowsy taste buds. Apples and Berries must be processed first to be made into Jam.",
         "rarity": 3,
-        "sources": [
-            "Sold by Good Hunter",
-            "Processing"
-        ]
+        "sources": ["Sold by Good Hunter", "Processing"]
     },
     "jueyun-chili": {
         "name": "Jueyun Chili",
@@ -197,49 +163,32 @@
     "milk": {
         "name": "Milk",
         "description": "Sweet and fragrant cow's milk. Don't waste a single drop, not even that one rolling down your chin.",
-        "sources": [
-            "Sold by Mondstadt General Goods",
-            "Sold by Second Life"
-        ]
+        "sources": ["Sold by Mondstadt General Goods", "Sold by Second Life"]
     },
     "mint": {
         "name": "Mint",
         "description": "A refreshingly cool ingredient. The cool, fresh flavor can cut through the heat of many dishes.",
-        "sources": [
-            "Found in the wild",
-            "Sold by Chloris"
-        ]
+        "sources": ["Found in the wild", "Sold by Chloris"]
     },
     "mushroom": {
         "name": "Mushroom",
         "description": "Hardy common fungi. Can grow anywhere with the right amount of shade and moisture.",
-        "sources": [
-            "Found in the wild",
-            "Purchased at Wanmin Restaurant"
-        ]
+        "sources": ["Found in the wild", "Purchased at Wanmin Restaurant"]
     },
     "onion": {
         "name": "Onion",
         "description": "A spherical vegetable. As vengeance for cutting it, it will make you cry, no matter how brave you are.",
-        "sources": [
-            "Sold by Mondstadt General Goods",
-            "Sold by Second Life"
-        ]
+        "sources": ["Sold by Mondstadt General Goods", "Sold by Second Life"]
     },
     "pepper": {
         "name": "Pepper",
         "description": "Peppery. Cuts through oily flavors and excites the taste buds. Goes best on meat.",
-        "sources": [
-            "Sold by Second Life",
-            "Sold by Mondstadt General Goods"
-        ]
+        "sources": ["Sold by Second Life", "Sold by Mondstadt General Goods"]
     },
     "pinecone": {
         "name": "Pinecone",
         "description": "Filled with oil-rich seeds. Certainly won't be growing into a tree from inside a squirrel's stomach.",
-        "sources": [
-            "Found in the wild"
-        ]
+        "sources": ["Found in the wild"]
     },
     "potato": {
         "name": "Potato",
@@ -273,26 +222,17 @@
     "raw-meat": {
         "name": "Raw Meat",
         "description": "A fresh chunk of meat. Handled properly it can be used to make delicious food.",
-        "sources": [
-            "Found in the wild",
-            "Sold by Draff",
-            "Processing"
-        ]
+        "sources": ["Found in the wild", "Sold by Draff", "Processing"]
     },
     "rice": {
         "name": "Rice",
         "description": "A grain crop commonly found in Teyvat. People of all walks of life enjoy its distinct grainy texture. As the saying goes, \"The same kind of rice can feed one hundred kinds of people.\"",
-        "sources": [
-            "Sold by Second Life"
-        ]
+        "sources": ["Sold by Second Life"]
     },
     "salt": {
         "name": "Salt",
         "description": "A savory seasoning. A precise but adequate amount will elevate the quality of the cuisine.",
-        "sources": [
-            "Sold by Mondstadt General Goods",
-            "Sold by Second Life"
-        ]
+        "sources": ["Sold by Mondstadt General Goods", "Sold by Second Life"]
     },
     "sausage": {
         "name": "Sausage",
@@ -308,10 +248,7 @@
     "shrimp-meat": {
         "name": "Shrimp Meat",
         "description": "A whole piece of deep sea shrimp meat, full of nutrients and bursting with delicious flavor.",
-        "sources": [
-            "Sold by Second Life",
-            "Sold by Uncle Sun"
-        ]
+        "sources": ["Sold by Second Life", "Sold by Uncle Sun"]
     },
     "small-lamp-grass": {
         "name": "Small Lamp Grass",
@@ -327,18 +264,12 @@
         "name": "Smoked Fowl",
         "description": "Fowl that has been smoked. The firm texture gives new taste to dishes.Fowl must be processed first to be made into Smoked Fowl.",
         "rarity": 2,
-        "sources": [
-            "Sold by Good Hunter",
-            "Processing"
-        ]
+        "sources": ["Sold by Good Hunter", "Processing"]
     },
     "snapdragon": {
         "name": "Snapdragon",
         "description": "Can be eaten once cooked. As a spice it can bring wonderful flavor to dishes.",
-        "sources": [
-            "Found in the wild",
-            "Sold by Chloris"
-        ]
+        "sources": ["Found in the wild", "Sold by Chloris"]
     },
     "sugar": {
         "name": "Sugar",
@@ -354,18 +285,12 @@
     "sweet-flower": {
         "name": "Sweet Flower",
         "description": "Particularly fragrant flowers. They can be found easily, even in the dark. Just follow the scent.",
-        "sources": [
-            "Found in the wild",
-            "Purchase from Flora in Mondstadt"
-        ]
+        "sources": ["Found in the wild", "Purchase from Flora in Mondstadt"]
     },
     "tofu": {
         "name": "Tofu",
         "description": "Freshly made bean product that has a silky-smooth tender texture.",
-        "sources": [
-            "Sold by Second Life",
-            "Sold by Ms. Bai"
-        ]
+        "sources": ["Sold by Second Life", "Sold by Ms. Bai"]
     },
     "tomato": {
         "name": "Tomato",

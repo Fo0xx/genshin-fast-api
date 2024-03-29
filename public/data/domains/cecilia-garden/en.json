@@ -38,11 +38,7 @@
             ]
         }
     ],
-    "recommendedElements": [
-        "Electro",
-        "Cryo",
-        "Pyro"
-    ],
+    "recommendedElements": ["Electro", "Cryo", "Pyro"],
     "rewards": [
         {
             "day": "mon",

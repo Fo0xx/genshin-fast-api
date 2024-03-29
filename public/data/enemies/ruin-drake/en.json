@@ -6,15 +6,7 @@
     "type": "Elite Enemies",
     "family": "Automatons",
     "faction": "Ruin Drakes",
-    "elements": [
-        "Anemo",
-        "Cryo",
-        "Dendro",
-        "Electro",
-        "Geo",
-        "Hydro",
-        "Pyro"
-    ],
+    "elements": ["Anemo", "Cryo", "Dendro", "Electro", "Geo", "Hydro", "Pyro"],
     "drops": [
         {
             "name": "Chaos Storage",

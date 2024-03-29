@@ -38,11 +38,7 @@
             ]
         }
     ],
-    "recommendedElements": [
-        "雷",
-        "氷",
-        "炎"
-    ],
+    "recommendedElements": ["雷", "氷", "炎"],
     "rewards": [
         {
             "day": "月曜",

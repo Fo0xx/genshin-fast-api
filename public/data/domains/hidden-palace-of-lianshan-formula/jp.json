@@ -40,10 +40,7 @@
             ]
         }
     ],
-    "recommendedElements": [
-        "氷",
-        "炎"
-    ],
+    "recommendedElements": ["氷", "炎"],
     "rewards": [
         {
             "day": "月曜",

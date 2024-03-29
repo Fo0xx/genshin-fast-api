@@ -651,9 +651,7 @@
         "sliver": {
             "id": "brilliant-diamond-sliver",
             "name": "Brilliant Diamond Sliver",
-            "sources": [
-                "Adventure Rank 15"
-            ],
+            "sources": ["Adventure Rank 15"],
             "rarity": 2
         },
         "fragment": {

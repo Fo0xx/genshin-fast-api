@@ -2,10 +2,7 @@
     "almond": {
         "name": "Mandeln",
         "description": "Ein Samen mit einem kräftigen Geschmack, der Gerichten eine frische Note verleihen kann.",
-        "sources": [
-            "Sold by Second Life",
-            "Sold by Ms. Bai"
-        ]
+        "sources": ["Sold by Second Life", "Sold by Ms. Bai"]
     },
     "bacon": {
         "name": "Speck",
@@ -27,9 +24,7 @@
     "berry": {
         "name": "Beere",
         "description": "Eine Frucht in knalligen Farben, die man überall im Freien finden kann. Sie hilft dabei, die Müdigkeit auf der Reise zu überwinden.",
-        "sources": [
-            "In der freien Natur zu finden"
-        ]
+        "sources": ["In der freien Natur zu finden"]
     },
     "bird-egg": {
         "name": "Vogelei",
@@ -62,11 +57,7 @@
     "calla-lily": {
         "name": "Wasserlilie",
         "description": "Eine Blume, die am Ufer von Gewässern wächst. Ihre Blüten sind zubereitet ein wahres Erlebnis auf der Zunge, leicht süß und bitter.",
-        "sources": [
-            "Found near lakes",
-            "Found in Springvale",
-            "Sold by Flora"
-        ]
+        "sources": ["Found near lakes", "Found in Springvale", "Sold by Flora"]
     },
     "carrot": {
         "name": "Möhre",
@@ -90,9 +81,7 @@
     "chilled-meat": {
         "name": "Kaltes Gourmetfleisch",
         "description": "Ein sehr seltenes delikates Fleisch. Es kommt von einer Spezies, die angeblich bereits seit Hunderten von Jahren ausgestorben ist und hat sich dank des extrem kalten Wetters auf dem Drachengrat so gut erhalten. Für viele Feinschmecker aus allen Teilen Teyvats ist dieses Fleisch der Heilige Gral unter den Fleischsorten.",
-        "sources": [
-            "Snowboars"
-        ]
+        "sources": ["Snowboars"]
     },
     "crab": {
         "name": "Krebs",
@@ -197,18 +186,12 @@
     "milk": {
         "name": "Milch",
         "description": "Von Kühen. Bei diesem vollen Aroma willst du keinen einzigen Tropfen verschwenden.",
-        "sources": [
-            "Sold by Mondstadt General Goods",
-            "Sold by Second Life"
-        ]
+        "sources": ["Sold by Mondstadt General Goods", "Sold by Second Life"]
     },
     "mint": {
         "name": "Minze",
         "description": "Eine Pflanze mit erfrischenden ätherischen Ölen in ihren Blättern. Das kühle Gefühl auf der Zunge lässt einen die Sommerhitze besser ertragen.",
-        "sources": [
-            "In der freien Natur zu finden",
-            "Sold by Chloris"
-        ]
+        "sources": ["In der freien Natur zu finden", "Sold by Chloris"]
     },
     "mushroom": {
         "name": "Champignon",
@@ -221,25 +204,17 @@
     "onion": {
         "name": "Zwiebel",
         "description": "Ein kugelrundes Gemüse, das sich an seinen Angreifern rächt, indem es sie weinen lässt.",
-        "sources": [
-            "Sold by Mondstadt General Goods",
-            "Sold by Second Life"
-        ]
+        "sources": ["Sold by Mondstadt General Goods", "Sold by Second Life"]
     },
     "pepper": {
         "name": "Pfeffer",
         "description": "Schmeckt nach Pfeffer. Bringt den Geschmack fettreicher Speisen gut hervor und passt besonders gut zu Fleisch.",
-        "sources": [
-            "Sold by Second Life",
-            "Sold by Mondstadt General Goods"
-        ]
+        "sources": ["Sold by Second Life", "Sold by Mondstadt General Goods"]
     },
     "pinecone": {
         "name": "Kiefernzapfen",
         "description": "Enthält viele ölhaltige Kerne, die natürlich nicht zu einem gewaltigen Baum im Magen eines Eichhörnchens heranwachsen.",
-        "sources": [
-            "In der freien Natur zu finden"
-        ]
+        "sources": ["In der freien Natur zu finden"]
     },
     "potato": {
         "name": "Kartoffel",
@@ -282,17 +257,12 @@
     "rice": {
         "name": "Reis",
         "description": "Körner einer in Teyvat häufig aufzufindenden Getreideart. Die verschiedensten Menschen wissen diese sättigenden weißen Körner zu schätzen. Daher sagt man auch, \"Reis nährt alle Menschen.\"",
-        "sources": [
-            "Sold by Second Life"
-        ]
+        "sources": ["Sold by Second Life"]
     },
     "salt": {
         "name": "Salz",
         "description": "Ist salzig und verbessert den Geschmack von Gerichten nur in der richtigen Menge.",
-        "sources": [
-            "Sold by Mondstadt General Goods",
-            "Sold by Second Life"
-        ]
+        "sources": ["Sold by Mondstadt General Goods", "Sold by Second Life"]
     },
     "sausage": {
         "name": "Wurst",
@@ -308,10 +278,7 @@
     "shrimp-meat": {
         "name": "Garnelenfleisch",
         "description": "Garnelenfleisch aus den Tiefen der Meere. Es hat wertvolle Inhaltsstoffe und einen überwältigenden, frischen Geschmack.",
-        "sources": [
-            "Sold by Second Life",
-            "Sold by Uncle Sun"
-        ]
+        "sources": ["Sold by Second Life", "Sold by Uncle Sun"]
     },
     "small-lamp-grass": {
         "name": "Lampenkraut",
@@ -335,10 +302,7 @@
     "snapdragon": {
         "name": "Goldfischkraut",
         "description": "Zubereitet eine essbare Pflanze. Als würzende Zutat gibt sie deinem Essen das gewisse Etwas.",
-        "sources": [
-            "In der freien Natur zu finden",
-            "Sold by Chloris"
-        ]
+        "sources": ["In der freien Natur zu finden", "Sold by Chloris"]
     },
     "sugar": {
         "name": "Zucker",
@@ -362,10 +326,7 @@
     "tofu": {
         "name": "Tofu",
         "description": "Ein aus Bohnenquark gepresstes Erzeugnis, das sich seidig weich auf der Zunge anfühlt.",
-        "sources": [
-            "Sold by Second Life",
-            "Sold by Ms. Bai"
-        ]
+        "sources": ["Sold by Second Life", "Sold by Ms. Bai"]
     },
     "tomato": {
         "name": "Tomate",

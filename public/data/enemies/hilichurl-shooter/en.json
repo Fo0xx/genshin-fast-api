@@ -6,11 +6,7 @@
     "type": "Common Enemies",
     "family": "Hilichurls",
     "faction": "Abyss Order",
-    "elements": [
-        "Electro",
-        "Pyro",
-        "Cryo"
-    ],
+    "elements": ["Electro", "Pyro", "Cryo"],
     "drops": [
         {
             "name": "Damaged Mask",

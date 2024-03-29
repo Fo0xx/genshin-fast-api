@@ -38,12 +38,7 @@
             ]
         }
     ],
-    "recommendedElements": [
-        "Pyro",
-        "Electro",
-        "Geo",
-        "Anemo"
-    ],
+    "recommendedElements": ["Pyro", "Electro", "Geo", "Anemo"],
     "rewards": [
         {
             "day": "always",

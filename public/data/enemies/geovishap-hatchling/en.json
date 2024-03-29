@@ -5,9 +5,7 @@
     "region": "Liyue",
     "type": "Elite Enemies",
     "family": "Mythical Beasts",
-    "elements": [
-        "Geo"
-    ],
+    "elements": ["Geo"],
     "drops": [
         {
             "name": "Fragile Bone Shard",

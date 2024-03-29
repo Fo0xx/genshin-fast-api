@@ -38,9 +38,7 @@
             ]
         }
     ],
-    "recommendedElements": [
-        "Anemo"
-    ],
+    "recommendedElements": ["Anemo"],
     "rewards": [
         {
             "day": "always",

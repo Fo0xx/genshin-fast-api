@@ -44,10 +44,7 @@
             ]
         }
     ],
-    "recommendedElements": [
-        "Geo",
-        "Cryo"
-    ],
+    "recommendedElements": ["Geo", "Cryo"],
     "rewards": [
         {
             "day": "mon",

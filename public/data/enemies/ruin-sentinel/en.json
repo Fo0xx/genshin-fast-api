@@ -6,9 +6,7 @@
     "type": "Elite Enemies",
     "family": "Automatons",
     "faction": "Ruin Machines",
-    "elements": [
-        "N/A"
-    ],
+    "elements": ["N/A"],
     "drops": [
         {
             "name": "Chaos Gear",

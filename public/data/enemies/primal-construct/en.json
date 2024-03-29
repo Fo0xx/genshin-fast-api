@@ -6,9 +6,7 @@
     "type": "Elite Enemies",
     "family": "Automatons",
     "faction": "Primal Constructs",
-    "elements": [
-        "Dendro"
-    ],
+    "elements": ["Dendro"],
     "drops": [
         {
             "name": "Damaged Prism",

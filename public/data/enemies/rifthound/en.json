@@ -6,10 +6,7 @@
     "type": "Elite Enemies",
     "family": "The Abyss",
     "faction": "Abyss Order",
-    "elements": [
-        "Geo",
-        "Electro"
-    ],
+    "elements": ["Geo", "Electro"],
     "drops": [
         {
             "name": "Concealed Claw",

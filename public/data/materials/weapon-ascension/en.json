@@ -24,11 +24,7 @@
             "the-viridescent-hunt",
             "wolf-fang"
         ],
-        "availability": [
-            "Monday",
-            "Thursday",
-            "Sunday"
-        ],
+        "availability": ["Monday", "Thursday", "Sunday"],
         "source": "cecilia-garden",
         "items": [
             {
@@ -81,11 +77,7 @@
             "waster-greatsword",
             "wine-and-song"
         ],
-        "availability": [
-            "Tuesday",
-            "Friday",
-            "Sunday"
-        ],
+        "availability": ["Tuesday", "Friday", "Sunday"],
         "source": "cecilia-garden",
         "items": [
             {
@@ -136,11 +128,7 @@
             "windblume-ode",
             "wolf-s-gravestone"
         ],
-        "availability": [
-            "Wednesday",
-            "Saturday",
-            "Sunday"
-        ],
+        "availability": ["Wednesday", "Saturday", "Sunday"],
         "source": "cecilia-garden",
         "items": [
             {
@@ -186,11 +174,7 @@
             "whiteblind",
             "sacrificial-jade"
         ],
-        "availability": [
-            "Monday",
-            "Thursday",
-            "Sunday"
-        ],
+        "availability": ["Monday", "Thursday", "Sunday"],
         "source": "hidden-palace-of-lianshan",
         "items": [
             {
@@ -235,11 +219,7 @@
             "the-unforged",
             "twin-nephrite"
         ],
-        "availability": [
-            "Tuesday",
-            "Friday",
-            "Sunday"
-        ],
+        "availability": ["Tuesday", "Friday", "Sunday"],
         "source": "hidden-palace-of-lianshan",
         "items": [
             {
@@ -282,11 +262,7 @@
             "staff-of-homa",
             "vortex-vanquisher"
         ],
-        "availability": [
-            "Wednesday",
-            "Saturday",
-            "Sunday"
-        ],
+        "availability": ["Wednesday", "Saturday", "Sunday"],
         "source": "hidden-palace-of-lianshan",
         "items": [
             {
@@ -320,11 +296,7 @@
             "mistsplitter-reforged",
             "oathsworn-eye"
         ],
-        "availability": [
-            "Monday",
-            "Thursday",
-            "Sunday"
-        ],
+        "availability": ["Monday", "Thursday", "Sunday"],
         "source": "court-of-flowing-sand",
         "items": [
             {
@@ -360,11 +332,7 @@
             "thundering-pulse",
             "toukabou-shigure"
         ],
-        "availability": [
-            "Tuesday",
-            "Friday",
-            "Sunday"
-        ],
+        "availability": ["Tuesday", "Friday", "Sunday"],
         "source": "court-of-flowing-sand",
         "items": [
             {
@@ -399,11 +367,7 @@
             "polar-star",
             "wavebreaker-s-fin"
         ],
-        "availability": [
-            "Wednesday",
-            "Saturday",
-            "Sunday"
-        ],
+        "availability": ["Wednesday", "Saturday", "Sunday"],
         "source": "court-of-flowing-sand",
         "items": [
             {
@@ -437,11 +401,7 @@
             "sapwood-blade",
             "xiphos-moonlight"
         ],
-        "availability": [
-            "Monday",
-            "Thursday",
-            "Sunday"
-        ],
+        "availability": ["Monday", "Thursday", "Sunday"],
         "source": "tower-of-abject-pride",
         "items": [
             {
@@ -475,11 +435,7 @@
             "talking-stick",
             "wandering-evenstar"
         ],
-        "availability": [
-            "Tuesday",
-            "Friday",
-            "Sunday"
-        ],
+        "availability": ["Tuesday", "Friday", "Sunday"],
         "source": "tower-of-abject-pride",
         "items": [
             {
@@ -514,11 +470,7 @@
             "king-s-squire",
             "makhaira-aquamarine"
         ],
-        "availability": [
-            "Wednesday",
-            "Saturday",
-            "Sunday"
-        ],
+        "availability": ["Wednesday", "Saturday", "Sunday"],
         "source": "tower-of-abject-pride",
         "items": [
             {
@@ -553,11 +505,7 @@
             "sword-of-narzissenkreuz",
             "verdict"
         ],
-        "availability": [
-            "Monday",
-            "Thursday",
-            "Sunday"
-        ],
+        "availability": ["Monday", "Thursday", "Sunday"],
         "source": "echoes-of-the-deep-tides",
         "items": [
             {
@@ -590,11 +538,7 @@
             "flowing-purity",
             "the-dockhands-assistant"
         ],
-        "availability": [
-            "Tuesday",
-            "Friday",
-            "Sunday"
-        ],
+        "availability": ["Tuesday", "Friday", "Sunday"],
         "source": "echoes-of-the-deep-tides",
         "items": [
             {
@@ -628,11 +572,7 @@
             "tidal-shadow",
             "ultimate-overlord-s-mega-magic-sword"
         ],
-        "availability": [
-            "Wednesday",
-            "Saturday",
-            "Sunday"
-        ],
+        "availability": ["Wednesday", "Saturday", "Sunday"],
         "source": "echoes-of-the-deep-tides",
         "items": [
             {

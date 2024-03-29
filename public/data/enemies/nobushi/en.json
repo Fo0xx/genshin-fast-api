@@ -5,10 +5,7 @@
     "description": "Despite often appearing in groups, the Nobushi do not have a centralized organization. Depending on the temperament or the nature of their crimes, they are also known as the \"homeless ones\", \"vagabonds\", \"Kairagi\", \"ne'er-do-wells\", or even \"the rioters\", or just simply known collectively as \"those rogues\". They are often samurai who haven fallen into banditry, and some will even ally themselves with the Treasure Hoarders or the Fatui for survival or monetary gain.",
     "type": "Common Enemies",
     "family": "Other Human Factions",
-    "elements": [
-        "Electro",
-        "Pyro"
-    ],
+    "elements": ["Electro", "Pyro"],
     "drops": [
         {
             "name": "Old Handguard",

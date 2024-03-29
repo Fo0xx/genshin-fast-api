@@ -5,11 +5,7 @@
     "description": "N/A",
     "type": "Elite Enemies",
     "family": "Mystical Beasts",
-    "elements": [
-        "Anemo",
-        "Pyro",
-        "Electro"
-    ],
+    "elements": ["Anemo", "Pyro", "Electro"],
     "drops": [
         {
             "name": "Desiccated Shell",

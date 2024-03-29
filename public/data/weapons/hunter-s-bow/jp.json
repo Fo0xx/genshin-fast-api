@@ -1,10 +1,11 @@
 {
-  "name": "狩猟弓",
-  "type": "Bow",
-  "rarity": 1,
-  "baseAttack": 23,
-  "subStat": "-",
-  "passiveName": "-",
-  "passiveDesc": "-",
-  "location": "宝箱"
+    "name": "狩猟弓",
+    "type": "Bow",
+    "rarity": 1,
+    "baseAttack": 23,
+    "subStat": "-",
+    "passiveName": "-",
+    "passiveDesc": "-",
+    "location": "宝箱",
+    "id": "hunter-s-bow"
 }

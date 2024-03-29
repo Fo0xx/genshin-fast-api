@@ -1,6 +1,7 @@
 {
-  "name": "Inazuma",
-  "element": "Électro",
-  "archon": "Baal",
-  "controllingEntity": "Shogunat"
+    "name": "Inazuma",
+    "element": "Électro",
+    "archon": "Baal",
+    "controllingEntity": "Shogunat",
+    "id": "inazuma"
 }

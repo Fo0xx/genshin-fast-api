@@ -1,6 +1,7 @@
 {
-  "name": "Domador de Truenos",
-  "max_rarity": 5,
-  "2-piece_bonus": "RES Electro +40%",
-  "4-piece_bonus": "Aumenta en un 35% el daño contra los enemigos afectados por Electro."
+    "name": "Domador de Truenos",
+    "max_rarity": 5,
+    "2-piece_bonus": "RES Electro +40%",
+    "4-piece_bonus": "Aumenta en un 35% el daño contra los enemigos afectados por Electro.",
+    "id": "thundersoother"
 }

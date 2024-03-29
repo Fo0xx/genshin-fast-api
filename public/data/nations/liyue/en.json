@@ -1,6 +1,7 @@
 {
-  "name": "Liyue",
-  "element": "Geo",
-  "archon": "Morax",
-  "controllingEntity": "Liyue Qixing"
+    "name": "Liyue",
+    "element": "Geo",
+    "archon": "Morax",
+    "controllingEntity": "Liyue Qixing",
+    "id": "liyue"
 }

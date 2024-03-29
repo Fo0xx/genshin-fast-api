@@ -1,11 +1,12 @@
 {
-  "name": "Waster Greatsword",
-  "type": "Claymore",
-  "rarity": 1,
-  "baseAttack": 23,
-  "subStat": "-",
-  "passiveName": "-",
-  "passiveDesc": "-",
-  "location": "Chest",
-  "ascensionMaterial": "boreal"
+    "name": "Waster Greatsword",
+    "type": "Claymore",
+    "rarity": 1,
+    "baseAttack": 23,
+    "subStat": "-",
+    "passiveName": "-",
+    "passiveDesc": "-",
+    "location": "Chest",
+    "ascensionMaterial": "boreal",
+    "id": "waster-greatsword"
 }

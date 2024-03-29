@@ -1,6 +1,7 @@
 {
-  "name": "Final del Gladiador",
-  "max_rarity": 5,
-  "2-piece_bonus": "ATQ +18%.",
-  "4-piece_bonus": "Aumenta el daño de Ataque Normal en un 35% si el personaje usa una espada ligera, mandoble o lanza."
+    "name": "Final del Gladiador",
+    "max_rarity": 5,
+    "2-piece_bonus": "ATQ +18%.",
+    "4-piece_bonus": "Aumenta el daño de Ataque Normal en un 35% si el personaje usa una espada ligera, mandoble o lanza.",
+    "id": "gladiator-s-finale"
 }

@@ -1,6 +1,7 @@
 {
-  "name": "Liyue",
-  "element": "Géo",
-  "archon": "Morax",
-  "controllingEntity": "Sept Étoiles de Liyue"
+    "name": "Liyue",
+    "element": "Géo",
+    "archon": "Morax",
+    "controllingEntity": "Sept Étoiles de Liyue",
+    "id": "liyue"
 }

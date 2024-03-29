@@ -27,18 +27,6 @@ export const genshin = new Elysia({ prefix: "/genshin" })
   })
   .get(
     "/:type",
-    ({ params: { type } }) => {
-      const entities = getAvailableEntities(type);
-      return entities;
-    },
-    {
-      params: t.Object({
-        type: t.String(),
-      }),
-    }
-  )
-  .get(
-    "/:type/all",
     async ({ params: { type }, query }) => {
       try {
         const entities = await getAvailableEntities(type);
@@ -55,6 +43,9 @@ export const genshin = new Elysia({ prefix: "/genshin" })
             }
           })
         );
+
+        //Si query n'est pas un objet vide, on filtre les entités
+        if(Object.keys(query).length > 0) {
 
         const test: any[] = entityObjects.filter((entity) => {
           if (!entity) return false;
@@ -73,6 +64,9 @@ export const genshin = new Elysia({ prefix: "/genshin" })
         });
 
         return test;
+        }
+
+        return entityObjects;
       } catch (e) {
         throw new NotFoundError();
       }

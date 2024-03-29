@@ -1,6 +1,10 @@
 # Genshin Fast API
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Fo0xx/genshin-fast-api?style=for-the-badge)
+![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/Fo0xx/genshin-fast-api/elysia?style=for-the-badge&logo=bun&color=green)
+![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/Fo0xx/genshin-fast-api/keyv?style=for-the-badge&logo=bun&color=green)
+![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/Fo0xx/genshin-fast-api/sharp?style=for-the-badge&logo=bun&color=green)
+
 
 This is an unofficial remake of the [Genshin.dev Impact API](https://github.com/genshindev/api).
 

@@ -33,6 +33,7 @@ export async function getAvailableEntities(
   if (!exists) throw new NotFoundError(`Type ${type} not found`);
 
   const entities = await fs.readdir(dataDirectory(type));
+  entities.sort();
   await cache.set(`data-${type}`, entities);
   console.log("[Cache-Data]", `${type}`, "Added to the cache");
   return entities;

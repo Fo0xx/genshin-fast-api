@@ -1,6 +1,7 @@
 {
+    "id": 1,
     "tail-of-boreas": {
-        "id": "tail-of-boreas",
+        "id": 1,
         "name": "Tail of Boreas",
         "characters": [
             "qiqi",
@@ -10,7 +11,7 @@
         ]
     },
     "ring-of-boreas": {
-        "id": "ring-of-boreas",
+        "id": 2,
         "name": "Ring of Boreas",
         "characters": [
             "barbara",
@@ -20,7 +21,7 @@
         ]
     },
     "spirit-locket-of-boreas": {
-        "id": "spirit-locket-of-boreas",
+        "id": 3,
         "name": "Spirit Locket of Boreas",
         "characters": [
             "fischl",
@@ -30,7 +31,7 @@
         ]
     },
     "dvalin's-plume": {
-        "id": "dvalin's-plume",
+        "id": 4,
         "name": "Dvalin's Plume",
         "characters": [
             "bennett",
@@ -39,7 +40,7 @@
         ]
     },
     "dvalin's-claw": {
-        "id": "dvalin's-claw",
+        "id": 5,
         "name": "Dvalin's Claw",
         "characters": [
             "lisa",
@@ -49,7 +50,7 @@
         ]
     },
     "dvalin's-sigh": {
-        "id": "dvalin's-sigh",
+        "id": 6,
         "name": "Dvalin's Sigh",
         "characters": [
             "amber",
@@ -60,7 +61,7 @@
         ]
     },
     "tusk-of-monoceros-caeli": {
-        "id": "tusk-of-monoceros-caeli",
+        "id": 7,
         "name": "Tusk of Monoceros Caeli",
         "characters": [
             "albedo",
@@ -69,7 +70,7 @@
         ]
     },
     "shard-of-a-foul-legacy": {
-        "id": "shard-of-a-foul-legacy",
+        "id": 8,
         "name": "Shard of a Foul Legacy",
         "characters": [
             "diona",
@@ -78,7 +79,7 @@
         ]
     },
     "shadow-of-the-warrior": {
-        "id": "shadow-of-the-warrior",
+        "id": 9,
         "name": "Shadow of the Warrior",
         "characters": [
             "ganyu",
@@ -87,7 +88,7 @@
         ]
     },
     "bloodjade-branch": {
-        "id": "bloodjade-branch",
+        "id": 10,
         "name": "Bloodjade Branch",
         "characters": [
             "ayaka",
@@ -96,7 +97,7 @@
         ]
     },
     "dragon-lord's-crown": {
-        "id": "dragon-lord's-crown",
+        "id": 11,
         "name": "Dragon Lord's Crown",
         "characters": [
             "eula",
@@ -105,7 +106,7 @@
         ]
     },
     "gilded-scale": {
-        "id": "gilded-scale",
+        "id": 12,
         "name": "Gilded Scale",
         "characters": [
             "kazuha",
@@ -114,7 +115,7 @@
         ]
     },
     "molten-moment": {
-        "id": "moltent-moment",
+        "id": 13,
         "name": "Molten Moment",
         "characters": [
             "raiden",
@@ -123,7 +124,7 @@
         ]
     },
     "hellfire-butterfly": {
-        "id": "hellfire-butterfly",
+        "id": 14,
         "name": "Hellfire Butterfly",
         "characters": [
             "kokomi",
@@ -132,7 +133,7 @@
         ]
     },
     "ashen-heart": {
-        "id": "ashen-heart",
+        "id": 15,
         "name": "Ashen Heart",
         "characters": [
             "sara",
@@ -141,7 +142,7 @@
         ]
     },
     "everamber": {
-        "id": "everamber",
+        "id": 16,
         "name": "Everamber",
         "characters": [
             "lynette",
@@ -150,7 +151,7 @@
         ]
     },
     "primordial-greenbloom": {
-        "id": "primordial-greenbloom",
+        "id": 17,
         "name": "Primordial Greenbloom",
         "characters": [
             "lyney",
@@ -159,7 +160,7 @@
         ]
     },
     "worldspan-fern": {
-        "id": "worldspan-fern",
+        "id": 18,
         "name": "Worldspan Fern",
         "characters": [
             "baizhu",
@@ -168,7 +169,7 @@
         ]
     },
     "lightless-silk-string": {
-        "id": "lightless-silk-string",
+        "id": 19,
         "name": "Lightless Silk String",
         "characters": [
             "charlotte",
@@ -176,7 +177,7 @@
         ]
     },
     "lightless-mass": {
-        "id": "lightless-mass",
+        "id": 20,
         "name": "Lightless Mass",
         "characters": [
             "furina",
@@ -184,7 +185,7 @@
         ]
     },
     "lightless-eye-of-the-maelstrom": {
-        "id": "lightless-eye-of-the-maelstrom",
+        "id": 21,
         "name": "Lightless Eye of the Maelstrom",
         "characters": [
             "chevreuse",
@@ -192,7 +193,7 @@
         ]
     },
     "daka-s-bell": {
-        "id": "daka-s-bell",
+        "id": 22,
         "name": "Daka's Bell",
         "characters": [
             "wanderer",
@@ -200,7 +201,7 @@
         ]
     },
     "puppet-strings": {
-        "id": "puppet-strings",
+        "id": 23,
         "name": "Puppet Strings",
         "characters": [
             "dehya",
@@ -209,7 +210,7 @@
         ]
     },
     "mirror-of-mushin": {
-        "id": "mirror-of-mushin",
+        "id": 24,
         "name": "Mirror of Mushin",
         "characters": [
             "alhaitham",
@@ -218,7 +219,7 @@
         ]
     },
     "mudra-of-the-malefic-general": {
-        "id": "mudra-of-the-malefic-general",
+        "id": 25,
         "name": "Mudra of the Malefic General",
         "characters": [
             "cyno",
@@ -227,7 +228,7 @@
         ]
     },
     "tears-of-the-calamitous-god": {
-        "id": "tears-of-the-calamitous-god",
+        "id": 26,
         "name": "Tears of the Calamitous God",
         "characters": [
             "candace",
@@ -237,13 +238,12 @@
         ]
     },
     "the-meaning-of-aeons": {
-        "id": "the-meaning-of-aeons",
+        "id": 27,
         "name": "The Meaning of Aeons",
         "characters": [
             "shikanoin-heizou",
             "tighnari",
             "yae-miko"
         ]
-    },
-    "id": "talent-boss"
+    }
 }

@@ -1,7 +1,8 @@
 {
+    "id": 1,
     "anemo": {
         "sliver": {
-            "id": "vayuda-turquoise-sliver",
+            "id": 1,
             "name": "Vayuda Turquoise Sliver",
             "sources": [
                 "Anemo Hypostasis",
@@ -25,7 +26,7 @@
             "rarity": 2
         },
         "fragment": {
-            "id": "vayuda-turquoise-fragment",
+            "id": 2,
             "name": "Vayuda Turquoise Fragment",
             "sources": [
                 "Anemo Hypostasis",
@@ -48,7 +49,7 @@
             "rarity": 3
         },
         "chunk": {
-            "id": "vayuda-turquoise-chunk",
+            "id": 3,
             "name": "Vayuda Turquoise Chunk",
             "sources": [
                 "Anemo Hypostasis",
@@ -67,7 +68,7 @@
             "rarity": 4
         },
         "gemstone": {
-            "id": "vayuda-turquoise-gemstone",
+            "id": 4,
             "name": "Vayuda Turquoise Gemstone",
             "sources": [
                 "Anemo Hypostasis",
@@ -86,7 +87,7 @@
     },
     "cryo": {
         "sliver": {
-            "id": "shivada-jade-sliver",
+            "id": 1,
             "name": "Shivada Jade Sliver",
             "sources": [
                 "Cryo Regisvine",
@@ -116,7 +117,7 @@
             "rarity": 2
         },
         "fragment": {
-            "id": "shivada-jade-fragment",
+            "id": 2,
             "name": "Shivada Jade Fragment",
             "sources": [
                 "Cryo Regisvine",
@@ -145,7 +146,7 @@
             "rarity": 3
         },
         "chunk": {
-            "id": "shivada-jade-chunk",
+            "id": 3,
             "name": "Shivada Jade Chunk",
             "sources": [
                 "Cryo Regisvine",
@@ -168,7 +169,7 @@
             "rarity": 4
         },
         "gemstone": {
-            "id": "shivada-jade-gemstone",
+            "id": 4,
             "name": "Shivada Jade Gemstone",
             "sources": [
                 "Cryo Regisvine",
@@ -193,7 +194,7 @@
     },
     "electro": {
         "sliver": {
-            "id": "vajrada-amethyst-sliver",
+            "id": 1,
             "name": "Vajrada Amethyst Sliver",
             "sources": [
                 "Electro Hypostasis",
@@ -230,7 +231,7 @@
             "rarity": 2
         },
         "fragment": {
-            "id": "vajrada-amethyst-fragment",
+            "id": 2,
             "name": "Vajrada Amethyst Fragment",
             "sources": [
                 "Electro Hypostasis",
@@ -266,7 +267,7 @@
             "rarity": 3
         },
         "chunk": {
-            "id": "vajrada-amethyst-chunk",
+            "id": 3,
             "name": "Vajrada Amethyst Chunk",
             "sources": [
                 "Electro Hypostasis",
@@ -292,7 +293,7 @@
             "rarity": 4
         },
         "gemstone": {
-            "id": "vajrada-amethyst-gemstone",
+            "id": 4,
             "name": "Vajrada Amethyst Gemstone",
             "sources": [
                 "Electro Hypostasis",
@@ -318,7 +319,7 @@
     },
     "geo": {
         "sliver": {
-            "id": "prithiva-topaz-sliver",
+            "id": 1,
             "name": "Prithiva Topaz Sliver",
             "sources": [
                 "Geo Hypostasis",
@@ -337,7 +338,7 @@
             "rarity": 2
         },
         "fragment": {
-            "id": "prithiva-topaz-fragment",
+            "id": 2,
             "name": "Prithiva Topaz Fragment",
             "sources": [
                 "Geo Hypostasis",
@@ -355,7 +356,7 @@
             "rarity": 3
         },
         "chunk": {
-            "id": "prithiva-topaz-chunk",
+            "id": 3,
             "name": "Prithiva Topaz Chunk",
             "sources": [
                 "Geo Hypostasis",
@@ -371,7 +372,7 @@
             "rarity": 4
         },
         "gemstone": {
-            "id": "prithiva-topaz-gemstone",
+            "id": 4,
             "name": "Prithiva Topaz Gemstone",
             "sources": [
                 "Geo Hypostasis",
@@ -389,7 +390,7 @@
     },
     "hydro": {
         "sliver": {
-            "id": "varunada-lazurite-sliver",
+            "id": 1,
             "name": "Varunada Lazurite Sliver",
             "sources": [
                 "Oceanid",
@@ -425,8 +426,8 @@
             ],
             "rarity": 2
         },
-        "fragment": {
-            "id": "varunada-lazurite-fragment",
+        "fragment": {  
+            "id": 2,
             "name": "Varunada Lazurite Fragment",
             "sources": [
                 "Oceanid",
@@ -462,7 +463,7 @@
             "rarity": 3
         },
         "chunk": {
-            "id": "varunada-lazurite-chunk",
+            "id": 3,
             "name": "Varunada Lazurite Chunk",
             "sources": [
                 "Oceanid",
@@ -488,7 +489,7 @@
             "rarity": 4
         },
         "gemstone": {
-            "id": "varunada-lazurite-gemstone",
+            "id": 4,
             "name": "Varunada Lazurite Gemstone",
             "sources": [
                 "Oceanid",
@@ -514,7 +515,7 @@
     },
     "pyro": {
         "sliver": {
-            "id": "agnidus-agate-sliver",
+            "id": 1,
             "name": "Agnidus Agate Sliver",
             "sources": [
                 "Pyro Regisvine",
@@ -537,7 +538,7 @@
             "rarity": 2
         },
         "fragment": {
-            "id": "agnidus-agate-fragment",
+            "id": 2,
             "name": "Agnidus Agate Fragment",
             "sources": [
                 "Pyro Regisvine",
@@ -559,7 +560,7 @@
             "rarity": 3
         },
         "chunk": {
-            "id": "agnidus-agate-chunk",
+            "id": 3,
             "name": "Agnidus Agate Chunk",
             "sources": [
                 "Pyro Regisvine",
@@ -577,7 +578,7 @@
             "rarity": 4
         },
         "gemstone": {
-            "id": "agnidus-agate-gemstone",
+            "id": 4,
             "name": "Agnidus Agate Gemstone",
             "sources": [
                 "Pyro Regisvine",
@@ -597,7 +598,7 @@
     },
     "dendro": {
         "sliver": {
-            "id": "nagadus-emerald-sliver",
+            "id": 1,
             "name": "Nagadus Emerald Sliver",
             "sources": [
                 "Dendro Hypostasis",
@@ -610,7 +611,7 @@
             "rarity": 2
         },
         "fragment": {
-            "id": "nagadus-emerald-fragment",
+            "id": 2,
             "name": "Nagadus Emerald Fragment",
             "sources": [
                 "Dendro Hypostasis",
@@ -623,7 +624,7 @@
             "rarity": 3
         },
         "chunk": {
-            "id": "nagadus-emerald-chunk",
+            "id": 3,
             "name": "Nagadus Emerald Chunk",
             "sources": [
                 "Dendro Hypostasis",
@@ -636,7 +637,7 @@
             "rarity": 4
         },
         "gemstone": {
-            "id": "nagadus-emerald-gemstone",
+            "id": 4,
             "name": "Nagadus Emerald Gemstone",
             "sources": [
                 "Dendro Hypostasis",
@@ -649,13 +650,13 @@
     },
     "traveler": {
         "sliver": {
-            "id": "brilliant-diamond-sliver",
+            "id": 1,
             "name": "Brilliant Diamond Sliver",
             "sources": ["Adventure Rank 15"],
             "rarity": 2
         },
         "fragment": {
-            "id": "brilliant-diamond-fragment",
+            "id": 2,
             "name": "Brilliant Diamond Fragment",
             "sources": [
                 "Adventure Rank 25",
@@ -666,7 +667,7 @@
             "rarity": 3
         },
         "chunk": {
-            "id": "brilliant-diamond-chunk",
+            "id": 3,
             "name": "Brilliant Diamond Chunk",
             "sources": [
                 "Adventure Rank 35",
@@ -676,7 +677,7 @@
             "rarity": 4
         },
         "gemstone": {
-            "id": "brilliant-diamond-gemstone",
+            "id": 4,
             "name": "Brilliant Diamond Gemstone",
             "sources": [
                 "Adventure Rank 41",
@@ -685,6 +686,5 @@
             ],
             "rarity": 5
         }
-    },
-    "id": "character-ascension"
+    }
 }
